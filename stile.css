@@ -5,22 +5,7 @@
 		flex-direction: column;
 	}
 
-	.sidebar, .menu, .leftmenu{
-		width: 100% !important;
-		display: flex !important;
-		flex-direction: row !important;
-		overflow-x: auto !important;
-	}
-	.main, .content, .container{
-		width: 100% !important;
-		margin-left: 0 !important;
-		padding: 10px !important;
-	}
-	img, video{
-		max-width: 100% !important;
-		height: auto !important;
-}
-html{
+	html{
 	-webkit-text-size-adjust: 100%;
 }
 
