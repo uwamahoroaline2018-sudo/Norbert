@@ -339,13 +339,13 @@ li
 .v-line{
 	width: 1px;
 	background-color: #ccc;
-	min-height: 20px;
+    height: 30px;
 	margin-top:10px;
 }
 .v-line2{
 	width: 1px;
 	background-color: #ccc;
-	height: 20px;
+	height: 30px;
 }
 .slidder-wrap{
 	position: relative;
