@@ -28,21 +28,6 @@
     </script></li>
     <li>
     
-   
-    <a  onclick="logout()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    
-      Logout
-    </a>
-
-    <script>
-      function logout(){
-        if (confirm("Are you want to logout?")) {
-          localStorage.clear();
-          sessionStorage.clear();
-          window.location.href = "first.php";
-        }
-      }
-    </script>
 
   </ul>
     </nav>
