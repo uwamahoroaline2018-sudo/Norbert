@@ -1,11 +1,10 @@
 @media (max-width: 768px){
-	
 	.container{
 		padding: 10px;
 		flex-direction: column;
 	}
-
-	html{
+}
+html{
 	-webkit-text-size-adjust: 100%;
 }
 
