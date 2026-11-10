@@ -1,8 +1,5 @@
 @media (max-width: 768px){
-	body{
-		margin: 0 !important;
-		overflow-x: hidden;
-	}
+	
 	.container{
 		padding: 10px;
 		flex-direction: column;
