@@ -92,27 +92,15 @@
 <div class="vid-wrap">
   <video id="mainPlayer" controls></video>
   <div class="vid-list" id="vidList">
-    <div class="vid-item" onclick="playVideo(this, 'Nasara_by_Meddy__[Official_Video](720p).mp4')">Nasara_by_Meddy__[Official_Video]<span>PLaY</span></div>
 
-    <div class="vid-item" onclick="playVideo(this, 'Holy_Spirit_By_Meddy_[Official_Video](720p).mp4')">Holy_Spirit_By_Meddy_[Official_Video]<span>PLaY</span></div>
+    <div class="vid-item" onclick="playVideo(this, 'Lady.mp4')">Saphila's Vibe<span>PLaY</span></div>
 
-    <div class="vid-item" onclick="playVideo(this, 'Meddy_-_Niyo_Ndirimbo_ft_Adrien_Misigaro__Official_Video_(720p).mp4')">Meddy_-_Niyo_Ndirimbo_ft_Adrien_Misigaro__Official_Video_(720p)<span>PLaY</span></div>
-
-    <div class="vid-item" onclick="playVideo(this, 'Diamond_Platnumz_-_Ntampata_Wapi__Official_Video_HD_(720p).mp4')">Diamond_Platnumz_-_Ntampata_Wapi__Official_Video<span>PLaY</span></div>
-
-    <div class="vid-item" onclick="playVideo(this, 'Marioo___Element_Eleéeh_-_Njozi__Official_Music_Video_(720p).mp4')">Marioo___Element_Eleéeh_-_Njozi__Official_Music_Video<span>PLaY</span></div>
-
+    <div class="vid-item" onclick="playVideo(this, 'See_u_again👋🏻.mp4')">See_u_again👋🏻<span>PLaY</span></div>
+    
     <div class="vid-item" onclick="playVideo(this, 'Ni_Yesu___Buravan__official_Music_Video_(720p).mp4')">Ni_Yesu___Buravan__official_Music_Video_(720p)<span>PLaY</span></div>
-
-    <div class="vid-item" onclick="playVideo(this, 'Nkwite_Nde_By_Adrien_ft_The_Ben_[Official_Video](720p).mp4')">Nkwite_Nde_By_Adrien_ft_The_Ben_[Official_Video]<span>PLaY</span></div>
 
     <div class="vid-item" onclick="playVideo(this, 'Ntacyo_Nzaba_by_Adrien_ft_Meddy__Official_Video_(720p).mp4')">Ntacyo_Nzaba_by_Adrien_ft_Meddy__Official_Video_(720p)<span>PLaY</span></div>
 
-    <div class="vid-item" onclick="playVideo(this, 'See_u_again👋🏻.mp4')">See_u_again👋🏻<span>PLaY</span></div>
-
-    <div class="vid-item" onclick="playVideo(this, 'Shaffy_-_Sèrela__Official_Music_Video_(720p).mp4')">Shaffy_-_Sèrela__Official_Music_Video_(720p)<span>PLaY</span></div>
-
-    <div class="vid-item" onclick="playVideo(this, 'Utah_Nice_ft._Chriss_Eazy_-_MY_MiND__Official_Video_(720p).mp4')">Utah_Nice_ft._Chriss_Eazy_-_MY_MiND__Official_Video<span>PLaY</span></div>
 
   </div>
 </div>
