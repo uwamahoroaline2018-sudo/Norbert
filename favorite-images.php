@@ -26,17 +26,6 @@
     <li>
     
 
-
-    <script>
-      function logout(){
-        if (confirm("Are you want to logout?")) {
-          localStorage.clear();
-          sessionStorage.clear();
-          window.location.href = "first.php";
-        }
-      }
-    </script>
-
   </ul>
     </nav>
 </header>
