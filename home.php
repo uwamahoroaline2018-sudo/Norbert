@@ -25,7 +25,7 @@
         }
     </script></li>
    
-    <li><a onclick="audio()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a onclick="audio()" style="background-color: #fff;padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     My Fav Audios
     </a>
     <script>
