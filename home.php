@@ -6,7 +6,7 @@
 	</title>
 	<link rel="stylesheet" type="text/css" href="stile.css">
 </head>
-<body bgcolor="#669999">
+<body>
 <header><br><br>
 
 
