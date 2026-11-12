@@ -52,15 +52,19 @@ nav ul li u a:hover{
 	border-radius: 8px;
 }
 ul{
-	display: flex;
-	list-style: none;
-	gap: 20px;
-	padding: 0;
-	margin: 0;
+	display: flex !important;
+	list-style: none !important;
+	gap: 20px !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	flex-direction: row !important;
+	flex-wrap: wrap !important;
 }
 ul li{
-	display: inline-grid;
+	display: inline-block !important;
+	white-space: nowrap !important;
 }
+
 ul li a{
 	text-align: left;
 	text-decoration: none;
