@@ -6,29 +6,54 @@
 	</title>
 	<link rel="stylesheet" type="text/css" href="stile.css">
 </head>
-<body bgcolor="#669999">
-<header><br><br>
+<body>
+<header>
+<br><br>
+  <nav>
 
 
- <nav>
-
-
-  <ul>
+  <ul class="menuu">
     <li><a onclick="home()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    
-      HOME
+    HOME
     </a>
     <script>
       function home(){
           window.location.href = "home.php";
         }
-      
     </script></li>
-    <li>
-    
+   <div class="v-linee"></div>
+    <li><a onclick="audio()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    AUDIOS
+    </a>
 
-  </ul>
+    <script>
+      function audio(){
+          window.location.href = "favorite-audio.php";
+        }
+    </script></li>
+   <div class="v-linee"></div>
+    <li><a onclick="video()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    VIDEOS
+    </a>
+    <script>
+      function video(){
+          window.location.href = "favorite-videos.php";
+        }
+    </script></li>
+    <div class="v-linee"></div>
+    <li><a onclick="imag()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    IMAGES
+    </a>
+    <script>
+      function imag(){
+          window.location.href = "favorite-images.php";
+        }
+    </script></li>
+    </ul>
+
+    
     </nav>
+
 </header>
 <br>
 <hr>
