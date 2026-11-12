@@ -15,7 +15,7 @@
   <nav>
 
 
-  <ul >
+  <ul class="menuu">
     <li><a onclick="home()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     HOME
     </a>
