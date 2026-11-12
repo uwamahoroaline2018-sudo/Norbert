@@ -4,14 +4,11 @@
 	<title>
 		Noble
 	</title>
-	<link rel="stylesheet" type="text/css" href="stile.css">
+	<link rel="stylesheet" type="text/css" href="w.css">
 </head>
 <body>
-<header><br><br>
-
-
-    
- 
+<header>
+<br><br>
   <nav>
 
 
@@ -24,27 +21,28 @@
           window.location.href = "home.php";
         }
     </script></li>
-   
-    <li><a onclick="audio()" style="background-color: #fff;padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    My Fav Audios
+   <div class="v-linee"></div>
+    <li><a onclick="audio()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    AUDIOS
     </a>
+
     <script>
       function audio(){
           window.location.href = "favorite-audio.php";
         }
     </script></li>
-   
+   <div class="v-linee"></div>
     <li><a onclick="video()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    My Fav Videos
+    VIDEOS
     </a>
     <script>
       function video(){
           window.location.href = "favorite-videos.php";
         }
     </script></li>
-    
-    <li><a onclick="imag()" style="color: blue;padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    My Fav Images
+    <div class="v-linee"></div>
+    <li><a onclick="imag()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    IMAGES
     </a>
     <script>
       function imag(){
@@ -53,10 +51,10 @@
     </script></li>
     </ul>
 
-	  
+    
     </nav>
+
 </header>
-<br>
 <hr>
 <div class="layout">
 
@@ -65,50 +63,51 @@
 
 <div class="lagos">
 
-    <a href="favorite-videos.php" class="image-link">
-      <img src="mp4.jpg" alt="Fav Videos">
-      <span class="caption">Fav Videos</span>
+        <a href="https://www.facebook.com/norbert.1749" target="_blank">
+        <img src="fbb.png" class="logoo" alt="Facebook">
+        </a>
+            <br><br>
+        <a href="www.instagram.com/iam_noble_01" target="_blank">
+        <img src="ig.jpg" class="logoo" alt="Instagram">
+        </a>
+          <br><br>
+          
+        <a href="https://wa.me/250787164564" target="WhatsApp">
+        <img src="tsap.png" class="logoo" alt="Facebook">
+        </a><br><br>
 
-    </a>
+        <a href="https://www.tiktok.com/@noble_403?_r=1&_t=ZN-9AK4k0YWeaV" target="TikTok">
+        <img src="tok.jpg" class="logoo" alt="TikTok">
+        </a><br><br>
 
-    <a href="favorite-images.php" class="image-link">
-      <img src="imge.jpg" alt="Fav Images">
-      <span class="caption">Fav Images</span>
-    </a>
+        <a href="www.youtube.com/@norbertrw" target="YouTube">
+        <img src="yutube.png" alt="YouTube">
+        </a>
     
-    <a href="favorite-audio.php" class="image-link">
-      <img src="mus.png" alt="Fav Music">
-      <span class="caption">Fav Musics</span>
-    </a>
-
-    <a href="https://www.tiktok.com/@noble_403?_r=1&_t=ZN-9AK4k0YWeaV" class="image-link" >
-      <img src="tok.jpg" alt="TikTok Account">
-      <span class="caption">TikTok Shorts</span>
-    </a>
 
     
   </div>
 
 </aside>
-
+<br>
 <div class="v-line"></div>
 
  <main class="center">
   <div class="slideshow">
     <img src="_N1.jpg" class="slide active">
-    
+    <img src="_N2.jpg" class="slide">
     <img src="_N3.jpg" class="slide">
-   
+    <img src="_N4.jpg" class="slide">
     <img src="_N5.jpg" class="slide">
     <img src="_N6.jpg" class="slide">
     <img src="_N7.jpg" class="slide">
-    
+    <img src="_N8.jpg" class="slide">
     <img src="_N9.jpg" class="slide">
     <img src="_N10.jpg" class="slide">
-    
+    <img src="_N11.jpg" class="slide">
     <img src="_N12.jpg" class="slide">
     <img src="_N13.jpg" class="slide">
-    
+    <img src="_N14.jpg" class="slide">
     <img src="_N15.jpg" class="slide">
     <img src="_N16.jpg" class="slide">
     <img src="_N17.jpg" class="slide">
@@ -117,6 +116,15 @@
     <img src="_N20.jpg" class="slide">
     <img src="_N21.jpg" class="slide">
     <img src="_N22.jpg" class="slide">
+    <img src="_N23.jpg" class="slide">
+    <img src="_N24.jpg" class="slide">
+    <img src="_N25.jpg" class="slide">
+    <img src="_N26.jpg" class="slide">
+    <img src="_N27.jpg" class="slide">
+    <img src="_N28.jpg" class="slide">
+    <img src="_N29.jpg" class="slide">
+    <img src="_N30.png" class="slide">
+    <img src="_N31.jpg" class="slide">
   </div>
 
   <script>
@@ -138,11 +146,12 @@
 
   <div class="lagos">
 
-    <a href="https://eleeeh.com/" class="image-link">
-      <img src="_NELE.jpg" alt="Fav Producer" >
-      <span class="caption">Fav Producer</span>
+    <h1>N</h1><br><br>
+    <h1>O</h1><br><br>
+    <h1>B</h1><br><br>
+    <h1>L</h1><br><br>
+    <h1>E</h1><br><br>
 
-    </a>
 
     
     
@@ -167,35 +176,44 @@
      </div>
 
      <div class="footer-col">
-        <h3>Follow Me</h3>
+        <h3>Also find Me At:</h3>
         <div class="logos">
 
         <a href="https://www.facebook.com/norbert.1749" target="_blank">
         <img src="fbb.png" class="logoo" alt="Facebook">
         </a>
 
-        <a href="" target="_blank">
+        <a href="www.instagram.com/iam_noble_01" target="_blank">
         <img src="ig.jpg" class="logoo" alt="Instagram">
         </a>
     
         <a href="https://wa.me/250787164564" target="WhatsApp">
-        <img src="5.jpg" class="logoo" alt="Facebook">
+        <img src="tsap.png" class="logoo" alt="Facebook">
         </a>
 
         <a href="https://www.tiktok.com/@noble_403?_r=1&_t=ZN-9AK4k0YWeaV" target="TikTok">
         <img src="tok.jpg" class="logoo" alt="TikTok">
         </a>
 
-        <a href="" target="YouTube">
+        <a href="www.youtube.com/@norbertrw" target="YouTube">
         <img src="yutube.png" alt="YouTube">
         </a>
 
+
+        
+    
+
+        <br><br>
+    
+        <img src="call.jpg" alt="Call">: <p>+250788276912</p>
         </div>
+        <center>
+           <div class="footer-bottom">
+    &copy; 2026 Noble. All Rights Reserved.
+   </div></center>
+
      </div>
 
-   </div>
-   <div class="footer-bottom">
-    &copy; 2026 Noble. All Rights Reserved.
    </div>
  </footer>
 
