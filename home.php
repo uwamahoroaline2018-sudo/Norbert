@@ -15,7 +15,7 @@
   <nav>
 
 
-  <ul>
+  <ul >
     <li><a onclick="home()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     HOME
     </a>
@@ -24,10 +24,7 @@
           window.location.href = "home.php";
         }
     </script></li>
-    <li>
-    </ul>
-
-	  <ul>
+   
     <li><a onclick="audio()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     My Fav Audios
     </a>
@@ -36,10 +33,7 @@
           window.location.href = "favorite-audio.php";
         }
     </script></li>
-    <li>
-    </ul>
-
-	  <ul>
+   
     <li><a onclick="video()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     My Fav Videos
     </a>
@@ -48,10 +42,7 @@
           window.location.href = "favorite-videos.php";
         }
     </script></li>
-    <li>
-    </ul>
-
-	  <ul>
+    
     <li><a onclick="imag()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     My Fav Images
     </a>
@@ -60,7 +51,6 @@
           window.location.href = "favorite-images.php";
         }
     </script></li>
-    <li>
     </ul>
 
 	  
