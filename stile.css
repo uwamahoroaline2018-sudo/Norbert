@@ -51,18 +51,15 @@ nav ul li u a:hover{
 	color: yellow;
 	border-radius: 8px;
 }
-ul{
-	display: flex !important;
-	list-style: none !important;
-	gap: 20px !important;
-	padding: 0 !important;
-	margin: 0 !important;
-	flex-direction: row !important;
-	flex-wrap: wrap !important;
+.menuu{
+	display: flex;
+	gap: 30px;
+	padding: 0;
+	justify-content: center;
 }
 ul li{
-	display: inline-block !important;
-	white-space: nowrap !important;
+	display: inline-block;
+	white-space: nowrap;
 }
 
 ul li a{
