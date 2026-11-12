@@ -4,7 +4,7 @@
 	<title>
 		Noble
 	</title>
-	<link rel="stylesheet" type="text/css" href="w.css">
+	<link rel="stylesheet" type="text/css" href="stile.css">
 </head>
 <body>
 <header>
