@@ -17,10 +17,10 @@ body::before{
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url('_N20.jpg');
+	background-image: url('2.jpg');
 	background-size: cover;
 	background-position: center;
-	opacity: 0.4;
+	opacity: 0.7;
 	z-index: -1;
 }
 html{
@@ -32,32 +32,21 @@ html{
 	margin: 0;
 }
 
-header{
-	background-color: #20B2AA;
-	height: auto;
-}
 
 
-nav{
-	flex: 1;
-	margin-bottom: 5px;
-	width: 100%;
-}
 
-nav ul{
+
+ul{
 	display: flex;
 	list-style: none;
 	width: 100%;
 	gap:80px;
 	padding: 0;
-	margin: 0;
+	margin-bottom: 0;
 
 }
-nav ul li:last-child{
-	margin-left: auto;
-	
-}
-nav ul li a{
+
+ ul li a{
 	text-decoration: none;
 	font-size: 10px;
 	color: white;
@@ -65,13 +54,15 @@ nav ul li a{
 	font-weight: bold;
 	padding: 5px 10px;
 	display: block;
-	background-color: #ccc;
+	
+
 	
 }
-nav ul li u a:hover{
+ ul li u a:hover{
 	background-color: green;
 	color: yellow;
 	border-radius: 8px;
+	margin-bottom: 0;
 }
 .menuu{
 	display: flex;
@@ -181,6 +172,13 @@ li
 	padding: 15px;
 
 }
+.lagos{
+	flex-wrap: wrap;
+	gap: 20px;
+	align-items: center;
+	padding: 15px;
+
+}
 .logos a{
 	display: inline-block;
 }
@@ -198,17 +196,16 @@ li
 
 }
 .lagos img{
-	width: 40px;
-	height: 40px;
 	margin-top: 0px;
-	object-fit: cover;
-	object-position: center;
-	justify-content: top;
+	object-fit: contain;
 	border-radius: 8px;
 	transition: 0.3s;
-	padding: 40px;
+	width: 18px;
+	height: 18px;
+	border-right: 5px;
+	background: white;
+	padding: 4px;
 	box-shadow: 0 2px rgba(0,0,0,0.15);
-	background-color: #fff;
 
 }
 .image-link{
@@ -260,7 +257,7 @@ li
 	color: #fff;
 	padding: 40px 20px 10px;
 	font-family: Arial,sans-serif;
-	height:80px;
+	height:auto;
 }
 .footer-row{
 	display: flex;
@@ -294,17 +291,13 @@ li
 }
 
 .footer-bottom{
-	text-align: center;
-	border-top: 1px solid #222;
-	margin-top: 30px;
-	padding-top: 15px;
 	color: #777;
 	font-size: 14px;
 }
 
 .slideshow{
 	position: relative;
-	width: 100%;
+	width: 200%;
 	max-width: 800px;
 	height: 555px;
 	overflow: hidden;
@@ -338,12 +331,10 @@ li
 	display: flex;
 	width: 100%;
 	min-height: 100vh;
-	background: #669999;
 }
 .left, .right{
-	width: 110px;
-	min-width: 100px;
-	background: #669999;
+	width: 40px;
+	min-width: 20px;
 	padding: 15px;
 	margin-top: 10px;
 }
@@ -363,16 +354,22 @@ li
 		width: 100%;
 	}
 }
+.v-linee{
+	width: 1px;
+	background-color: #fff;
+    height: 10px;
+
+}
 .v-line{
 	width: 1px;
-	background-color: #ccc;
-    height: 30px;
+	background-color: #fff;
+    height: 100vh;
 	margin-top:10px;
 }
 .v-line2{
 	width: 1px;
-	background-color: #ccc;
-	height: 30px;
+	background-color: #000;
+	height: 100vh;
 }
 .slidder-wrap{
 	position: relative;
