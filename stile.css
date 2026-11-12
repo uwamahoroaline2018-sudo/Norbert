@@ -52,8 +52,11 @@ nav ul li u a:hover{
 	border-radius: 8px;
 }
 ul{
-	display: inline-grid;
+	display: flex;
 	list-style: none;
+	gap: 20px;
+	padding: 0;
+	margin: 0;
 }
 ul li{
 	display: inline-grid;
