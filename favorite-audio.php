@@ -113,6 +113,25 @@
      <audio id="aud0" src="ElementEleéeh-TOMBÉ.mp3"></audio>
    </div>
 
+          <div class="m-row">
+     <img src="_N27.jpg">
+     <div style="flex: 1; overflow: hidden;">
+       <b>Kevin_Kade_-_So_Close</b><small>&lt;unknown&gt;</small>
+     </div>
+     <button class="m-btn" onclick="playMe(14)" id="btn14">P</button>
+     <audio id="aud14" src="Kevin_Kade_-_So_Close__Official_Music_Video_(720p)_20260924_182235.mp3"></audio>
+   </div>
+
+  
+          <div class="m-row">
+     <img src="_N27.jpg">
+     <div style="flex: 1; overflow: hidden;">
+       <b>The_Ben_-_Inshallah__</b><small>&lt;unknown&gt;</small>
+     </div>
+     <button class="m-btn" onclick="playMe(14)" id="btn14">P</button>
+     <audio id="aud14" src="The_Ben_-_Inshallah__Official_Music_Video_(720p)_20260817_125411.mp3"></audio>
+   </div>
+
    <div class="m-row">
      <img src="_N27.jpg">
      <div style="flex: 1; overflow: hidden;">
@@ -128,7 +147,7 @@
        <b>Element_Eleéeh_-_AYAYAAH_Ft_Bien,_Joshua_Baraka__Lyric_Video_(720p)</b><small>&lt;unknown&gt;</small>
      </div>
      <button class="m-btn" onclick="playMe(2)" id="btn2">P</button>
-     <audio id="aud2" src="Element_Eleéeh_-_AYAYAAH_Ft_Bien,_Joshua_Baraka__Lyric_Video_(720p).mp3"></audio>
+     <audio id="aud2" src="Element_Eleéeh_-_AYAYAAH_Ft_Bien,_Joshua_Baraka__Lyric_Video_(720p)_20260506_190633.mp3"></audio>
    </div>
 
    <div class="m-row">
@@ -137,7 +156,7 @@
        <b>Element_Eleéeh_-_MAASO__Official_Music_Video.mp3</b><small>&lt;unknown&gt;</small>
      </div>
      <button class="m-btn" onclick="playMe(3)" id="btn3">P</button>
-     <audio id="aud3" src="Element_Eleéeh_-_MAASO__Official_Music_Video.mp3"></audio>
+     <audio id="aud3" src="Element_Eleéeh_-_MAASO__Official_Music_Video_(1080p)_20251231_080627.mp3"></audio>
    </div>
 
    <div class="m-row">
@@ -146,7 +165,7 @@
        <b>Element_Eleéeh_-_MiLELE__Official_Music_Video_(720p).mp3</b><small>&lt;unknown&gt;</small>
      </div>
      <button class="m-btn" onclick="playMe(4)" id="btn4">P</button>
-     <audio id="aud4" src="Element_Eleéeh_-_MiLELE__Official_Music_Video_(720p).mp3"></audio>
+     <audio id="aud4" src="Element_Eleéeh_-_MiLELE__Official_Music_Video_(720p)_20251231_080723.mp3"></audio>
    </div>
 
    <div class="m-row">
@@ -164,7 +183,7 @@
        <b>Element_Eleéeh_-_Kashe__Visualizer_(720p).mp3</b><small>&lt;unknown&gt;</small>
      </div>
      <button class="m-btn" onclick="playMe(6)" id="btn6">P</button>
-     <audio id="aud6" src="Element_Eleéeh_-_Kashe__Visualizer_(720p).mp3"></audio>
+     <audio id="aud6" src="Element Eleéeh - KASHE (Live Performance)_20260404_170832.mp3"></audio>
    </div>
 
    <div class="m-row">
@@ -229,6 +248,67 @@
      </div>
      <button class="m-btn" onclick="playMe(14)" id="btn14">P</button>
      <audio id="aud14" src="Bruce_Melodie_-_Bado_(Official_Video)(256k).mp3"></audio>
+   </div>
+
+    <div class="m-row">
+     <img src="_N27.jpg">
+     <div style="flex: 1; overflow: hidden;">
+       <b>Diez_Dola_-_EXTRA_STAMINA__Official_Music_Video.mp3</b><small>&lt;unknown&gt;</small>
+     </div>
+     <button class="m-btn" onclick="playMe(14)" id="btn14">P</button>
+     <audio id="aud14" src="Diez_Dola_-_EXTRA_STAMINA__Official_Music_Video_(720p)_20260405_214604.mp3"></audio>
+   </div>
+      <div class="m-row">
+     <img src="_N27.jpg">
+     <div style="flex: 1; overflow: hidden;">
+       <b>Element Eleéeh - FOU DE TOI (Live Performance)</b><small>&lt;unknown&gt;</small>
+     </div>
+     <button class="m-btn" onclick="playMe(14)" id="btn14">P</button>
+     <audio id="aud14" src="Element Eleéeh - FOU DE TOI (Live Performance)_20260404_170813.mp3"></audio>
+   </div>
+  
+      <div class="m-row">
+     <img src="_N27.jpg">
+     <div style="flex: 1; overflow: hidden;">
+       <b>Kenny_Sol_-_Godzilla__Official_Video</b><small>&lt;unknown&gt;</small>
+     </div>
+     <button class="m-btn" onclick="playMe(14)" id="btn14">P</button>
+     <audio id="aud14" src="Kenny_Sol_-_Godzilla__Official_Video_(720p)_20261114_194852.mp3"></audio>
+   </div>
+     <div class="m-row">
+     <img src="_N27.jpg">
+     <div style="flex: 1; overflow: hidden;">
+       <b>Ross_Kana_-_MOLELA__Official_Music_Video</b><small>&lt;unknown&gt;</small>
+     </div>
+     <button class="m-btn" onclick="playMe(14)" id="btn14">P</button>
+     <audio id="aud14" src="Ross_Kana_-_MOLELA__Official_Music_Video_(720p)_20260316_161019.mp3"></audio>
+   </div>
+
+    <div class="m-row">
+     <img src="_N27.jpg">
+     <div style="flex: 1; overflow: hidden;">
+       <b>RunUp_–_QUE_PASO</b><small>&lt;unknown&gt;</small>
+     </div>
+     <button class="m-btn" onclick="playMe(14)" id="btn14">P</button>
+     <audio id="aud14" src="RunUp_–_QUE_PASO__Official_Music_Video_(720p)_20261114_194941.mp3"></audio>
+   </div>
+
+      <div class="m-row">
+     <img src="_N27.jpg">
+     <div style="flex: 1; overflow: hidden;">
+       <b>SHAFFY_-_NINDE_ft_ELEMENT_EleéeH</b><small>&lt;unknown&gt;</small>
+     </div>
+     <button class="m-btn" onclick="playMe(14)" id="btn14">P</button>
+     <audio id="aud14" src="SHAFFY_-_NINDE_ft_ELEMENT_EleéeH__Official_Music_Video_(720p)_20260817_125323.mp3"></audio>
+   </div>
+
+        <div class="m-row">
+     <img src="_N27.jpg">
+     <div style="flex: 1; overflow: hidden;">
+       <b>Shaffy_-_Sèrela__</b><small>&lt;unknown&gt;</small>
+     </div>
+     <button class="m-btn" onclick="playMe(14)" id="btn14">P</button>
+     <audio id="aud14" src="Shaffy_-_Sèrela__Official_Music_Video_(720p)_20251231_171546.mp3"></audio>
    </div>
 
    
