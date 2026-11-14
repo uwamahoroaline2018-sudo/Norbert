@@ -115,20 +115,13 @@
   </div>
 
   <ul class="video-list">
-    <li onclick="playVideo('Nasara_by_Meddy__[Official_Video](720p).mp4',this)">
-    <p style="font-weight: bold;font-size: 15px;
-  font-family: Arial;">Nasara_by_Meddy__[Official_Video]</p>
-    </li>
 
     <li onclick="playVideo('AMALON_-_N_IMANA_[Official_Music_Video](720p).mp4',this)">
     <p style="font-weight: bold;font-size: 15px;
   font-family: Arial;">AMALON_-_N_IMANA_[Official_Music_Video](720p)</p>
     </li>
 
-    <li onclick="playVideo('Diamond_Platnumz_-_Ntampata_Wapi__Official_Video_HD_(720p).mp4',this)">
-    <p style="font-weight: bold;font-size: 15px;
-  font-family: Arial;">Diamond_Platnumz_-_Ntampata_Wapi__Official_Video_HD_(720p)</p>
-    </li>
+  
     <li onclick="playVideo('Low_Key_by_Yvan_Buravan(720p).mp4',this)">
     <p style="font-weight: bold;font-size: 15px;
   font-family: Arial;">Low_Key_by_Yvan_Buravan(720p)</p>
@@ -141,10 +134,6 @@
     <p style="font-weight: bold;font-size: 15px;
   font-family: Arial;">Ntacyo_Nzaba_by_Adrien_ft_Meddy__Official_Video_(720p)</p>
     </li>
-    <li onclick="playVideo('Shaffy_-_Sèrela__Official_Music_Video_(720p).mp4',this)">
-    <p style="font-weight: bold;font-size: 15px;
-  font-family: Arial;">Shaffy_-_Sèrela__Official_Music_Video_(720p)</p>
-  
     
     <li onclick="playVideo('Lady.mp4',this)">
     <p style="font-weight: bold;font-size: 15px;
