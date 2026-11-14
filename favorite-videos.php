@@ -120,18 +120,18 @@
   font-family: Arial;">Nasara_by_Meddy__[Official_Video]</p>
     </li>
 
-    <li onclick="playVideo('Holy_Spirit_By_Meddy_[Official_Video](720p).mp4',this)">
+    <li onclick="playVideo('AMALON_-_N_IMANA_[Official_Music_Video](720p).mp4',this)">
     <p style="font-weight: bold;font-size: 15px;
-  font-family: Arial;">Holy_Spirit_By_Meddy_[Official_Video](720p)</p>
+  font-family: Arial;">AMALON_-_N_IMANA_[Official_Music_Video](720p)</p>
     </li>
 
     <li onclick="playVideo('Diamond_Platnumz_-_Ntampata_Wapi__Official_Video_HD_(720p).mp4',this)">
     <p style="font-weight: bold;font-size: 15px;
   font-family: Arial;">Diamond_Platnumz_-_Ntampata_Wapi__Official_Video_HD_(720p)</p>
     </li>
-    <li onclick="playVideo('Marioo___Element-Njozi__Official_Music_Video_(720p).mp4',this)">
+    <li onclick="playVideo('Low_Key_by_Yvan_Buravan(720p).mp4',this)">
     <p style="font-weight: bold;font-size: 15px;
-  font-family: Arial;">Marioo___Element_Eleéeh_-_Njozi__Official_Music_Video_(720p)</p>
+  font-family: Arial;">Low_Key_by_Yvan_Buravan(720p)</p>
     </li>
     <li onclick="playVideo('Ni_Yesu___Buravan__official_Music_Video_(720p).mp4',this)">
     <p style="font-weight: bold;font-size: 15px;
@@ -144,30 +144,16 @@
     <li onclick="playVideo('Shaffy_-_Sèrela__Official_Music_Video_(720p).mp4',this)">
     <p style="font-weight: bold;font-size: 15px;
   font-family: Arial;">Shaffy_-_Sèrela__Official_Music_Video_(720p)</p>
-    </li>
-    <li onclick="playVideo('Utah_Nice_ft._Chriss_Eazy_-_MY_MiND__Official_Video_(720p).mp4',this)">
-    <p style="font-weight: bold;font-size: 15px;
-  font-family: Arial;">Utah_Nice_ft._Chriss_Eazy_-_MY_MiND__Official_Video_(720p)</p>
-    </li>
-    <li onclick="playVideo('Element_Eleéeh_-_AYAYAAH_Ft_Bien,_Joshua_Baraka__Lyric_Video_(720p).mp4',this)">
-    <p style="font-weight: bold;font-size: 15px;
-  font-family: Arial;">Element_Eleéeh_-_AYAYAAH_Ft_Bien,_Joshua_Baraka__Lyric_Video_(720p)</p>
-    </li>
+  
+    
     <li onclick="playVideo('Lady.mp4',this)">
     <p style="font-weight: bold;font-size: 15px;
   font-family: Arial;">Saphila's Vibe</p>
-    </li>
-    <li onclick="playVideo('Element_Eleéeh_-_Kashe__Visualizer_(720p).mp4',this)">
+  
+  
+    <li onclick="playVideo('See_u_again👋🏻.mp4',this)">
     <p style="font-weight: bold;font-size: 15px;
-  font-family: Arial;">Element_Eleéeh_-_Kashe__Visualizer_(720p)</p>
-    </li>
-    <li onclick="playVideo('Element_Eleéeh_-_MAASO__Official_Music_Video.mp4',this)">
-    <p style="font-weight: bold;font-size: 15px;
-  font-family: Arial;">Element_Eleéeh_-_MAASO__Official_Music_Video</p>
-    </li>
-    <li onclick="playVideo('Element_Eleéeh_-_MiLELE__Official_Music_Video_(720p).mp4',this)">
-    <p style="font-weight: bold;font-size: 15px;
-  font-family: Arial;"><span>Element_Eleéeh_-_MiLELE__Official_Music_Video_(720p)</span></p>
+  font-family: Arial;"><span>See_u_again👋🏻</span></p>
     </li>
 
   </ul>
