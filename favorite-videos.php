@@ -280,7 +280,7 @@
 
         <br><br>
     
-        <img src="call.jpg" alt="Call">: <p>+250788276912</p>
+        <img src="call.jpg" alt="Call">: <p>+250 787164564</p>
         </div>
         <center>
            <div class="footer-bottom">
