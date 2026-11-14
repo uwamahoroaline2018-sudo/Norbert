@@ -1,14 +1,20 @@
-<!DOCTYPE html>
+<!DOC<!DOCTYPE html>
 <html>
 <head>
-	<title>
-		Noble
-	</title>
-	<link rel="stylesheet" type="text/css" href="stile.css">
+  <title>
+    Noble
+  </title>
+  <link rel="icon" type="image/jpg" href="_N101.jpg">
+  <link rel="stylesheet" type="text/css" href="stile.css">
 </head>
 <body>
 <header>
 <br><br>
+
+<div class="logo-left">
+  <img src="_N101.jpg" alt="Logo"><br>
+  <span><h1>Norbert</h1></span>
+</div>
   <nav>
 
 
@@ -21,7 +27,7 @@
           window.location.href = "home.php";
         }
     </script></li>
-   <div class="v-linee"></div>
+   
     <li><a onclick="audio()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     AUDIOS
     </a>
@@ -31,7 +37,7 @@
           window.location.href = "favorite-audio.php";
         }
     </script></li>
-   <div class="v-linee"></div>
+   
     <li><a onclick="video()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     VIDEOS
     </a>
@@ -40,7 +46,7 @@
           window.location.href = "favorite-videos.php";
         }
     </script></li>
-    <div class="v-linee"></div>
+    
     <li><a onclick="imag()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     IMAGES
     </a>
@@ -55,7 +61,9 @@
     </nav>
 
 </header>
+<br>
 <hr>
+
 <div class="layout">
 
 <aside class="left">
@@ -89,10 +97,11 @@
   </div>
 
 </aside>
-<br>
+
 <div class="v-line"></div>
 
  <main class="center">
+ 
   <div class="slideshow">
     <img src="_N1.jpg" class="slide active">
     <img src="_N2.jpg" class="slide">
@@ -205,7 +214,7 @@
 
         <br><br>
     
-        <img src="call.jpg" alt="Call">: <p>+250788276912</p>
+        <img src="call.jpg" alt="Call">: <p>+250 787164564</p>
         </div>
         <center>
            <div class="footer-bottom">
