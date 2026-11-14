@@ -259,7 +259,7 @@
         </div>
         <center>
            <div class="footer-bottom">
-    &copy; 2026 Noble. All Rights Reserved.
+    &copy; 2026 Noble. All Rights Reserved
    </div></center>
 
      </div>
