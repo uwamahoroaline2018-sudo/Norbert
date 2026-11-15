@@ -300,7 +300,7 @@
 
     if(cur.paused){
       cur.play();
-      btn.innerHTML='▶';
+      btn.innerHTML='⏸';
     }else{
       cur.pause();
       btn.innerHTML='⏸';
