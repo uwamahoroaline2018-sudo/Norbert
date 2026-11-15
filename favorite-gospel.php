@@ -388,7 +388,7 @@
 
    </div>
 
-   <center>&copy; 2026 Noble. All Rights Reserved.</center>
+   <center><bottom>&copy; 2026 Norbert. All Rights Reserved.</bottom></center>
  </footer>
 
 </body>
