@@ -294,13 +294,13 @@
 
     audios.forEach((a,i)=>{
       if(i!=n){
-        a.pause(); a.currentTime=0; btns[i].innerHTML='PLaY';
+        a.pause(); a.currentTime=0; btns[i].innerHTML='▶';
       }
     });
 
     if(cur.paused){
       cur.play();
-      btn.innerHTML='PLaYING';
+      btn.innerHTML='⏸';
     }else{
       cur.pause();
       btn.innerHTML='P';
