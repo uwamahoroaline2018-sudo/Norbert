@@ -20,7 +20,7 @@
 
   <ul class="menuu">
     <li><a onclick="home()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    HOME
+    🏠 HOME
     </a>
     <script>
       function home(){
@@ -29,7 +29,7 @@
     </script></li>
    
     <li><a onclick="audio()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    AUDIOS
+    🎶 AUDIOS
     </a>
 
     <script>
@@ -39,7 +39,7 @@
     </script></li>
    
     <li><a onclick="video()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    VIDEOS
+    📽️ VIDEOS
     </a>
     <script>
       function video(){
@@ -48,7 +48,7 @@
     </script></li>
     
     <li><a onclick="imag()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    IMAGES
+    📸 IMAGES
     </a>
     <script>
       function imag(){
@@ -57,7 +57,7 @@
     </script></li>
 
     <li><a onclick="imag()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    GOSPEL 
+    ✝️ GOSPEL 
     </a>
     <script>
       function imag(){
