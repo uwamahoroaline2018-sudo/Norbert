@@ -84,7 +84,7 @@
         <img src="fbb.png" class="logoo" alt="Facebook">
         </a>
             <br><br>
-        <a href="www.instagram.com/iam_noble_01" target="_blank">
+        <a href="https://www.instagram.com/iam_noble_01" target="_blank">
         <img src="ig.jpg" class="logoo" alt="Instagram">
         </a>
           <br><br>
@@ -97,7 +97,7 @@
         <img src="tok.jpg" class="logoo" alt="TikTok">
         </a><br><br>
 
-        <a href="www.youtube.com/@norbertrw" target="YouTube">
+        <a href="https://www.youtube.com/@norbertrw" target="YouTube">
         <img src="yutube.png" alt="YouTube">
         </a>
     
@@ -355,7 +355,7 @@
         <img src="fbb.png" class="logoo" alt="Facebook">
         </a>
 
-        <a href="www.instagram.com/iam_noble_01" target="_blank">
+        <a href="https://www.instagram.com/iam_noble_01" target="_blank">
         <img src="ig.jpg" class="logoo" alt="Instagram">
         </a>
     
@@ -367,7 +367,7 @@
         <img src="tok.jpg" class="logoo" alt="TikTok">
         </a>
 
-        <a href="www.youtube.com/@norbertrw" target="YouTube">
+        <a href="https://www.youtube.com/@norbertrw" target="YouTube">
         <img src="yutube.png" alt="YouTube">
         </a>
 
