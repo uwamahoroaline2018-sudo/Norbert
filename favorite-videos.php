@@ -26,7 +26,7 @@
       function home(){
           window.location.href = "home.php";
         }
-    </script></li>
+    </script></li><li><div class="v-linee"></div></li>
    
     <li><a onclick="audio()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     🎶 AUDIOS
@@ -36,7 +36,7 @@
       function audio(){
           window.location.href = "favorite-audio.php";
         }
-    </script></li>
+    </script></li><li><div class="v-linee"></div></li>
    
     <li><a onclick="video()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📽️ VIDEOS
@@ -45,7 +45,7 @@
       function video(){
           window.location.href = "favorite-videos.php";
         }
-    </script></li>
+    </script></li><li><div class="v-linee"></div></li>
     
     <li><a onclick="imag()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📸 IMAGES
@@ -54,7 +54,7 @@
       function imag(){
           window.location.href = "favorite-images.php";
         }
-    </script></li>
+    </script></li><li><div class="v-linee"></div></li>
 
     <li><a onclick="imag()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     ✝️ GOSPEL 
