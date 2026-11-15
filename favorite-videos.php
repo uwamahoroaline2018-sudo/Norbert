@@ -55,6 +55,15 @@
           window.location.href = "favorite-images.php";
         }
     </script></li>
+
+    <li><a onclick="imag()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    GOSPEL 
+    </a>
+    <script>
+      function imag(){
+          window.location.href = "favorite-gospel.php";
+        }
+    </script></li>
     </ul>
 
     
