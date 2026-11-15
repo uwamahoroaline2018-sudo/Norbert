@@ -388,7 +388,7 @@
 
    </div>
 
-   <center><bottom>&copy; 2026 Norbert. All Rights Reserved.</bottom></center>
+   <center><span style="margin-bottom: 4px;">&copy; 2026 Norbert. All Rights Reserved.</span></center>
  </footer>
 
 </body>
