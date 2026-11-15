@@ -303,9 +303,9 @@
       btn.innerHTML='⏸';
     }else{
       cur.pause();
-      btn.innerHTML='P';
+      btn.innerHTML='⏸';
     }
-    cur.onended=()=>{btn.innerHTML='P';}
+    cur.onended=()=>{btn.innerHTML='▶';}
   }
 </script>
 
