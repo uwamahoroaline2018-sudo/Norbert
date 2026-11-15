@@ -259,14 +259,14 @@ li
 	color: #fff;
 	padding: 40px 20px 10px;
 	font-family: Arial,sans-serif;
-	height:auto;
+	height:200px;
 }
 .footer-row{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
 	gap: 30px;
-	max-width: 1100px;
+	max-width: auto;
 	margin: auto;
 
 }
