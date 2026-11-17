@@ -606,3 +606,46 @@ summary::-webkit-details-marker {
 	margin-top: 5px;
 	border-radius: 8px;
 }
+
+.type-welcome{
+	font-size: 20px;
+	font-weight: bold;
+	color: #00bfff;
+	text-align: center;
+	font-family: monosphere;
+	white-space: nowrap;
+	overflow: hidden;
+	border-right: 3px solid #00bfff;
+	width: 0;
+	animation: typing 3s steps(7) forwards, blink 0.7s infinite;
+	margin: 20px auto;
+}
+@keyframes typing{
+	to{
+		width: 240px;
+	}
+}
+@keyframes blink{
+	50% {
+		border-color: transparent;
+	}
+}
+.welcome-word{
+	font-size: 25px;
+	font-weight: bold;
+	color: black;
+	letter-spacing: 5px;
+	display: inline-block;
+	animation: glow 1.5s ease-in-out infinite altenate, bounce 1s ease-in-out infinite;
+	
+}
+@keyframes glow{
+	from{
+		text-shadow: 0 0 5px #fff, 0 0 10px #00bfff, 0 0 20px #00bfff;
+	}
+	to{ text-shadow: 0 0 10px #fff, 0 0 20px #ff00ff, 0 0 30px #ff00ff;}
+}
+@keyframes bounce{
+	0%, 100% {transform: translateY(0);}
+	50% {transform: translateY(-10px);}
+}
