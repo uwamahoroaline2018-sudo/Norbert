@@ -385,7 +385,7 @@
 
 </aside>
 </div>
-<footer class="footer">
+ <footer class="footer">
    <div class="footer-row">
 
      <div class="footer-col">
@@ -431,7 +431,7 @@
 
         <br><br>
     
-        <img src="call.jpg" alt="Call">: <p>+250788276912</p>
+        <img src="call.jpg" alt="Call">: <p>+250 787164564</p>
         </div>
         <center>
            <div class="footer-bottom">
@@ -441,8 +441,8 @@
      </div>
 
    </div>
-
-   <center>&copy; 2026 Noble. All Rights Reserved.</center>
+  <br>
+   <center><span style="margin-bottom: 4px;">&copy; 2026 Norbert. All Rights Reserved.</span></center>
  </footer>
 
 </body>
