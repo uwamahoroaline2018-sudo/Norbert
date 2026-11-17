@@ -13,9 +13,10 @@
 
 <div class="logo-left">
   <img src="_N101.jpg" alt="Logo"><br>
-  
 </div>
-<span><h5 style="font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;">Norbert</h5></span>
+<div class="welcome-word"><span><h5 style="font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;">Norbert</h5></span></div>
+
+  <div class="type-welcome">WELCOME TO NORBERT'S OFFICIAL WEBSITE</div>
   <nav>
 
 
