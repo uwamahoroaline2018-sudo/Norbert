@@ -166,6 +166,79 @@
     }, 4000);
   </script>
 
+</main><br><br>
+
+   <main class="center">
+
+<div class="music-box" id="box">
+
+  <p style="color: #ffffff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;">
+     YOHANA 3:16 Urukundo rw'Imana
+     <details>
+       <summary>Kanda hano usome 📖</summary>
+       <div class="more-text" style="font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;"><sup>16</sup> Kuko Imana yakunze abari mu isi cyane, byatumye itanga umwana wayo w'ikinege
+       kugira ngo umwizera wese atarimbuka, ahubwo ahabwe ubugingo buhoraho.</div>
+     </details>
+   </p><br>
+     <p style="color: #ffffff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;">
+     ABAFILIPI 4:13 Dushobozwa na Kristo
+     <details>
+       <summary>Kanda hano usome 📖</summary>
+       <div class="more-text" style="font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;"><sup>13</sup> Nshobozwa byose na Kristo umpa imbaraga</div>
+     </details>
+   </p>
+<p style="color: #ffffff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;">
+     ABAHEBURAYO 13:5 Tujye tunyurwa
+     <details>
+       <summary>Kanda hano usome 📖</summary>
+       <div class="more-text" style="font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;"><sup>5</sup>  Ntimukagire ingeso zo gukunda impiya ahubwo mujye munyurwa n'ibyo mufite kuko ubwayo yavuze iti "Sinzagusiga na hato, kandi ntabwo nzaguhana na hato."</div>
+     </details>
+   </p>
+
+   <br>
+     <p style="color: #ffffff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;">
+     KUVA 20:1-17 Imana ibwira Abisirayeli amategeko cumi (Guteg 5:1-33)
+     <details>
+       <summary>Kanda hano usome 📖</summary>
+       <div class="more-text" style="font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;"><sup>1</sup>Imana ivuga aya magambo yose iti<br><br>
+       <sup>2</sup> "Ndi Uwiteka Imana yawe yagukuye mu gihugu cya Egiputa, mu nzu y'uburetwa.<br><br>
+       <sup>3</sup> Ntukagire izindi mana mu maso yanjye.<br><br>
+       <sup>4</sup> Ntukiremere igishushanyo kibajwe, cyangwa igisa n'ishusho yose iri hejuru mu ijuru, cyangwa hasi ku butaka cyangwa mu mazi yo hepfo y'ubutaka.<br><br>
+       <sup>5</sup> Ntukabyikubite imbere, ntukabikorere kuko Uwiteka Imana yawe ndi Imana ifuha, mpora abana gukiranirwa kwa ba se, nkageza ku buzukuruza n'ubuvivi bw'abanyanga,<br><br>
+       <sup>6</sup> nkababarira abankunda bakitondera amategeko yanjye, nkageza ku buzukuruza babo b'ibihe igihumbi.<br><br>
+       <sup>7</sup> Ntukavugire ubusa izina ry'Uwiteka Imana yawe, kuko Uwiteka atazamubara nk'utacumuye, uvugiye ubusa izina rye.<br><br>
+       <sup>8</sup> Wibuke kweza umunsi  w'isabato.<br><br>
+       <sup>9</sup> Mu minsi itandatu ujya ukora, abe ari yo ukoreramo imirimo yawe yose,<br><br>
+       <sup>10</sup> ariko uwa karindwi ni wo sabato y'Uwiteka Imana yawe. Ntukagire umurimo wose uwukoraho, wowe ubwawe, cyangwa umuhungu wawe cyangwa umukobwa wawe, cyangwa umugaragu wawe cyangwa umuja wawe, cyangwa itungo ryawe cyangwa umunyamahanga wawe uri iwanyu,<br><br>
+       <sup>11</sup> kuko iminsi itandatu ari yo Uwiteka yaremeyemo ijuru n'isi n'inyanja n'ibirimo byose, akaruhukira ku wa karindwi. Ni cyo cyatumye Uwiteka aha umugisha umunsi w'isabato, akaweza.<br><br>
+       <sup>12</sup> Wubahe so na nyoko, kugira ngo uramire mu gihugu Uwiteka Imana yawe iguha.<br><br>
+       <sup>13</sup> Ntukice.<br><br>
+       <sup>14</sup> Ntugasambane.<br><br>
+       <sup>15</sup> Ntukibe.<br><br>
+       <sup>16</sup> Ntugashinje ibinyoma mugenzi wawe.<br><br>
+       <sup>17</sup> Ntukifuze inzu ya mugenzi wawe, ntukifuze umugore wa mugenzi wawe, cyangwa umugaragu we cyangwa umuja we, cyangwa inka ye cyangwa indogobe ye, cyangwa ikindi kintu cyose cya mugenzi wawe.
+       </div>
+     </details>
+   </p>
+   <p style="color: #ffffff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;">
+     ABAHEBURAYO 11:20-24 Kwizera
+     <details>
+       <summary>Kanda hano usome 📖</summary>
+       <div class="more-text" style="font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;"><sup>20</sup> Kwizera ni ko kwatumye Isaka ahesha Yakobo na Esawu imigisha y'ibizaba.<br>
+       <sup>21</sup> Kwizera ni ko kwatumye Yakobo ubwo yari agiye gupfa, ahesha imigisha abana ba Yosefu bombi, agasenga yishingikirije ku ipfundo ry'inkoni ye.<br><br>
+       <sup>22</sup> Kwizera niko kwatumye Yosefu ubwo yari agiye gupfa, yibuka ibyo kuva mu Egiputa kw'Abisirayeli, agategeka iby'amagufwa ye.<br><br>
+       <sup>23</sup> Kwizera niko kwatumye Mose ahishwa n'ababyeyi be amezi atatu amaze kuvuka, kuko babonye ako kana ko ari keza ntibatinye itegeko ry'umwami.<br><br>
+       <sup>24</sup> Kwizera niko kwatumye Mose ubwo yari amaze gukura, yanga kwitwa umuhungu w'umukobwa wa Farawo</div>
+     </details>
+   </p>
+    </div>
+
+
+
+
+     
+
+
 </main>
 
 <div class="v-line"></div>
