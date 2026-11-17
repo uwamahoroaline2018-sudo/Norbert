@@ -40,7 +40,7 @@ ul{
 	display: flex;
 	list-style: none;
 	width: 100%;
-	gap:80px;
+	gap:40px;
 	padding: 0;
 	margin-bottom: 0;
 
@@ -48,11 +48,11 @@ ul{
 
  ul li a{
 	text-decoration: none;
-	font-size: 10px;
+	font-size: 7px;
 	color: white;
 	font-family: sans-serif;
 	font-weight: bold;
-	padding: 5px 10px;
+	padding: 3px 2px;
 	display: block;
 	
 
@@ -66,7 +66,7 @@ ul{
 }
 .menuu{
 	display: flex;
-	gap: 30px;
+	gap: 10px;
 	padding: 0;
 	justify-content: center;
 }
@@ -83,7 +83,7 @@ ul li a{
 	font-size: 15px;
 	color: white;
 	font-family: sans-serif;
-	padding: 6px 20px;
+	padding: 6px 8px;
 }
 ul li a:hover{
 	background-color: grey;
@@ -259,14 +259,14 @@ li
 	color: #fff;
 	padding: 40px 20px 10px;
 	font-family: Arial,sans-serif;
-	height:350px;
+	height:auto;
 }
 .footer-row{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
 	gap: 30px;
-	max-width: auto;
+	max-width: 1100px;
 	margin: auto;
 
 }
@@ -358,7 +358,7 @@ li
 }
 .v-linee{
 	width: 1px;
-	background-color: #fff;
+	background-color: grey;
     height: 10px;
 
 }
@@ -428,14 +428,15 @@ li
 
 .music-box{
 	width: 100%;
-	max-width: 800px;
-	height: 555px;
+	max-width: 900px;
+	height: 455px;
 	overflow-y: auto;
-	background-image: url('_N27.jpg');
+	background: #293;
 	border-radius: 12px;
 	padding: 8px;
+
 }
-.music-box::-webkit-scrollbar{width: 4px;}
+.music-box::-webkit-scrollbar{width: 10px;}
 .music-box::-webkit-scrollbar-thumb{background: #333;border-radius: 10px;}
 .m-row{
 	display: flex; align-items: center; gap:10px;
@@ -444,7 +445,7 @@ li
 }
 .m-row:hover{background: #111;}
 .m-row img{
-	width: 28px;height: 28px;border-radius: 50%;background: #222;
+	width: 48px;height: 48px;border-radius: 10px;background: #222;
 }
 .m-row b{
 	font-size: 13px; display: block; white-space: nowrap;
@@ -562,4 +563,46 @@ video{
 	font-weight: bold;
 	font-size: 10px;
 	font-family: Arial;
+	font-family: sans-serif;
+	margin-left: 15px;
+}
+
+.bodi{
+	width: 1000px;
+	max-width: 10000px;
+	height: auto;
+	background-image: url('_N27.jpg');
+	border-radius: 12px;
+	padding: 8px;
+	background-size: cover;
+	background-position: center;
+	opacity: 0.4;
+}
+details{
+	margin-left: 300px;
+	margin-top: 0px;
+
+}
+summary{
+	background: cyan;
+	color: black;
+	padding:2px 4px;
+	border-radius: 4px;
+	cursor: pointer;
+	font-weight: bold;
+	display: inline-block;
+	list-style: none;
+	align-items: center;
+	
+
+}
+summary::-webkit-details-marker {
+	display: none;
+}
+.more-text{
+	background: #222;
+	color: white;
+	padding: 10px;
+	margin-top: 5px;
+	border-radius: 8px;
 }
