@@ -397,7 +397,7 @@
      </div>
 
    </div>
-
+  <br>
    <center><span style="margin-bottom: 4px;">&copy; 2026 Norbert. All Rights Reserved.</span></center>
  </footer>
 
