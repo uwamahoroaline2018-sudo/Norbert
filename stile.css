@@ -617,12 +617,13 @@ summary::-webkit-details-marker {
 	overflow: hidden;
 	border-right: 3px solid #00bfff;
 	width: 0;
-	animation: typing 3s steps(7) forwards, blink 0.7s infinite;
+	animation: typing 3s steps(7) forwards, blink 0.1s infinite;
 	margin: 20px auto;
+	margin-top: 5px;
 }
 @keyframes typing{
 	to{
-		width: 240px;
+		width: 140px;
 	}
 }
 @keyframes blink{
