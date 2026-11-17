@@ -230,7 +230,7 @@ Your Friend, NOBLE.<br><br>
 
 </aside>
 </div>
-<footer class="footer">
+ <footer class="footer">
    <div class="footer-row">
 
      <div class="footer-col">
@@ -254,7 +254,7 @@ Your Friend, NOBLE.<br><br>
         <img src="fbb.png" class="logoo" alt="Facebook">
         </a>
 
-        <a href="www.instagram.com/iam_noble_01" target="_blank">
+        <a href="https://www.instagram.com/iam_noble_01" target="_blank">
         <img src="ig.jpg" class="logoo" alt="Instagram">
         </a>
     
@@ -266,7 +266,7 @@ Your Friend, NOBLE.<br><br>
         <img src="tok.jpg" class="logoo" alt="TikTok">
         </a>
 
-        <a href="www.youtube.com/@norbertrw" target="YouTube">
+        <a href="https://www.youtube.com/@norbertrw" target="YouTube">
         <img src="yutube.png" alt="YouTube">
         </a>
 
@@ -276,7 +276,7 @@ Your Friend, NOBLE.<br><br>
 
         <br><br>
     
-        <img src="call.jpg" alt="Call">: <p>+250788276912</p>
+        <img src="call.jpg" alt="Call">: <p>+250 787164564</p>
         </div>
         <center>
            <div class="footer-bottom">
@@ -286,12 +286,8 @@ Your Friend, NOBLE.<br><br>
      </div>
 
    </div>
-
-   <center>&copy; 2026 Noble. All Rights Reserved.</center>
- </footer>
-
-</body>
-</html>
+  <br>
+   <center><span style="margin-bottom: 4px;">&copy; 2026 Norbert. All Rights Reserved.</span></center>
  </footer>
 
 </body>
