@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>
-    Noble
+    Norbert
   </title>
   <link rel="icon" type="image/jpg" href="_N101.jpg">
   <link rel="stylesheet" type="text/css" href="stile.css">
@@ -13,13 +13,15 @@
 
 <div class="logo-left">
   <img src="_N101.jpg" alt="Logo"><br>
-  <span><h1>Norbert</h1></span>
+  
 </div>
+<span><h5 style="font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;">Norbert</h5></span>
   <nav>
 
 
   <ul class="menuu">
-    <li><a onclick="home()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+  <li><div class="v-linee"></div></li>
+    <li><a onclick="home()" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     🏠 HOME
     </a>
     <script>
@@ -28,7 +30,7 @@
         }
     </script></li><li><div class="v-linee"></div></li>
    
-    <li><a onclick="audio()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a onclick="audio()" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     🎶 AUDIOS
     </a>
 
@@ -38,7 +40,7 @@
         }
     </script></li><li><div class="v-linee"></div></li>
    
-    <li><a onclick="video()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a onclick="video()" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📽️ VIDEOS
     </a>
     <script>
@@ -47,7 +49,7 @@
         }
     </script></li><li><div class="v-linee"></div></li>
     
-    <li><a onclick="imag()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a onclick="imag()" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📸 IMAGES
     </a>
     <script>
@@ -56,14 +58,22 @@
         }
     </script></li><li><div class="v-linee"></div></li>
 
-    <li><a onclick="imag()" style="padding: 7px 40px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a onclick="imag()" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     ✝️ GOSPEL 
     </a>
     <script>
       function imag(){
           window.location.href = "favorite-gospel.php";
         }
-    </script></li>
+    </script></li><li><div class="v-linee"></div></li>
+    <li><a onclick="imag()" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    📖 BIBLE 
+    </a>
+    <script>
+      function imag(){
+          window.location.href = "bible-verses.php";
+        }
+    </script></li><li><div class="v-linee"></div></li>
     </ul>
 
     
