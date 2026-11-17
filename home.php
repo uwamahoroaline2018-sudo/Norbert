@@ -124,7 +124,7 @@
 
 <div class="music-box" id="box">
 
-  <p style="color: #ffffff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;font-size: 10px;">
+  <p style="color: #ffffff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;font-size: 20px;">
  My name is HABIMANA Norbert born on 1<sup>st</sup> September at KIREHE DISTRICT, Nyarubuye Region.
  From 2009 - 2014 I was in Primary Schools at G.S PAYSANNAT D Locates in MAHAMA SECTOR [KIREHE DISTRICT]
  In 2015 I went to G.S KANKOBWA and I spent 3 years there in Secondary [ O'LEVEL ] ,
