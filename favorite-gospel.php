@@ -128,7 +128,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>USHIMWE by Tonzi Cover By Jessie</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(0)" id="btn0">P</button>
+     <button class="m-btn" onclick="playMe(0)" id="btn0">▶</button>
      <audio id="aud0" src="USHIMWE by Tonzi Cover By Jessie.mp3"></audio>
    </div>
 
@@ -137,7 +137,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>PAPA by Vestine and Dorcas.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(1)" id="btn1">P</button>
+     <button class="m-btn" onclick="playMe(1)" id="btn1">▶</button>
      <audio id="aud1" src="PAPA by Vestine and Dorcas (Official video 2021)(MP3_70K).mp3"></audio>
    </div>
 
@@ -146,7 +146,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>NZAKOMORA-_Vestine___Dorcas.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(2)" id="btn2">P</button>
+     <button class="m-btn" onclick="playMe(2)" id="btn2">▶</button>
      <audio id="aud2" src="NZAKOMORA-_Vestine___Dorcas__Official_Video_2022_(360p).mp3"></audio>
    </div>
 
@@ -155,7 +155,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>NDAKOMEYE by GABY KAMANZI.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(3)" id="btn3">P</button>
+     <button class="m-btn" onclick="playMe(3)" id="btn3">▶</button>
      <audio id="aud3" src="NDAKOMEYE by GABY KAMANZI_1724902768347.mp3"></audio>
    </div>
 
@@ -164,7 +164,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>Nahawe Ijambo by Vestine and Dorcas.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(4)" id="btn4">P</button>
+     <button class="m-btn" onclick="playMe(4)" id="btn4">▶</button>
      <audio id="aud4" src="Nahawe Ijambo by Vestine and Dorcas Official Video2020(MP3_70K).mp3"></audio>
    </div>
 
@@ -173,17 +173,17 @@
      <div style="flex: 1; overflow: hidden;">
        <b>MANZI_MUSIC_-_ICYO_YAVUZE.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(5)" id="btn5">P</button>
+     <button class="m-btn" onclick="playMe(5)" id="btn5">▶</button>
      <audio id="aud5" src="MANZI_MUSIC_-_ICYO_YAVUZE(480p)_20260301_225934.mp3"></audio>
    </div>
 
    <div class="m-row">
      <img src="_N32.jpg">
      <div style="flex: 1; overflow: hidden;">
-       <b>Mana_Nduburira_(194_Gushimisha)_by_PaPi_Clever_(Official_Audio_2018)(360p).mp3</b><small>&lt;unknown&gt;</small>
+       <b>Mana_Nduburira_(194_Gushimisha)_by_PaPi_Clever.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(6)" id="btn6">P</button>
-     <audio id="aud6" src="Mana_Nduburira_(194_Gushimisha)_by_PaPi_Clever_(Official_Audio_2018)(360p).M4A"></audio>
+     <button class="m-btn" onclick="playMe(6)" id="btn6">▶</button>
+     <audio id="aud6" src="Mana_Nduburira_(194_Gushimisha)_by_PaPi_Clever_(Official_Audio_2018)(360p).m4a"></audio>
    </div>
 
    <div class="m-row">
@@ -191,8 +191,8 @@
      <div style="flex: 1; overflow: hidden;">
        <b>Joy_in_chaos.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(7)" id="btn7">P</button>
-     <audio id="aud7" src="Joy_in_chaos_extended_lyric_video_with_D6_x_Stanley_Ifenna_(firm_foundation_by_cody_carnes)(240p).M4A"></audio>
+     <button class="m-btn" onclick="playMe(7)" id="btn7">▶</button>
+     <audio id="aud7" src="Joy_in_chaos_extended_lyric_video_with_D6_x_Stanley_Ifenna_(firm_foundation_by_cody_carnes)(240p).m4a"></audio>
    </div>
 
    <div class="m-row">
@@ -200,7 +200,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>Israel_MBONYI_-_NZARIRIMBA.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(8)" id="btn8">P</button>
+     <button class="m-btn" onclick="playMe(8)" id="btn8">▶</button>
      <audio id="aud8" src="Israel_MBONYI_-_NZARIRIMBA(128k).mp3"></audio>
    </div>
 
@@ -210,7 +210,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>Israel_Mbonyi_-_Number_one.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(9)" id="btn9">P</button>
+     <button class="m-btn" onclick="playMe(9)" id="btn9">▶</button>
      <audio id="aud9" src="Israel_Mbonyi_-_Number_one__2014_(256k).mp3"></audio>
    </div>
 
@@ -219,7 +219,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>ISAHA_-_Vestine_and_Dorcas.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(10)" id="btn10">P</button>
+     <button class="m-btn" onclick="playMe(10)" id="btn10">▶</button>
      <audio id="aud10" src="ISAHA_-_Vestine_and_Dorcas__Official_Video_2022_(256k).mp3"></audio>
    </div>
 
@@ -228,7 +228,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>IRIBA_-_Vestine_and_Dorcas.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(11)" id="btn11">P</button>
+     <button class="m-btn" onclick="playMe(11)" id="btn11">▶</button>
      <audio id="aud11" src="IRIBA_-_Vestine_and_Dorcas__Official_Video_2024_(256k).mp3"></audio>
    </div>
 
@@ -237,7 +237,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>IHEMA-_Vestine___Dorcas.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(12)" id="btn12">P</button>
+     <button class="m-btn" onclick="playMe(12)" id="btn12">▶</button>
      <audio id="aud12" src="IHEMA-_Vestine___Dorcas__Official_Video_2025_(256k).mp3"></audio>
    </div>
 
@@ -246,7 +246,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>EMMY_VOX_-_WARASENZE_UBURA_IKI.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(13)" id="btn13">P</button>
+     <button class="m-btn" onclick="playMe(13)" id="btn13">▶</button>
      <audio id="aud13" src="EMMY_VOX_-_WARASENZE_UBURA_IKI___Official_video_Lyrics_(256k).mp3"></audio>
    </div>
 
@@ -255,7 +255,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>The_Ben_-_ISI.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(14)" id="btn14">P</button>
+     <button class="m-btn" onclick="playMe(14)" id="btn14">▶</button>
      <audio id="aud14" src="The_Ben_-_ISI.mp3"></audio>
    </div>
 
@@ -264,7 +264,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>BIGIZI GENTIL-TUJYANE.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(15)" id="btn15">P</button>
+     <button class="m-btn" onclick="playMe(15)" id="btn15">▶</button>
      <audio id="aud15" src="BIGIZI GENTIL-TUJYANE  (Official Video) --KANDA SUBSCRIBE(MP3_70K).mp3"></audio>
    </div>
 
@@ -273,7 +273,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>ADONAÏ by Vestine and Dorcas.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(16)" id="btn16">P</button>
+     <button class="m-btn" onclick="playMe(16)" id="btn16">▶</button>
      <audio id="aud16" src="ADONAÏ by Vestine and Dorcas official video 2021.mp3"></audio>
    </div>
 
@@ -282,7 +282,7 @@
      <div style="flex: 1; overflow: hidden;">
        <b>!Ntacyo nzaba by Meddy & Adrien.mp3</b><small>&lt;unknown&gt;</small>
      </div>
-     <button class="m-btn" onclick="playMe(17)" id="btn17">P</button>
+     <button class="m-btn" onclick="playMe(17)" id="btn17">▶</button>
      <audio id="aud17" src="!Ntacyo nzaba by Meddy & Adrien 2014.mp3"></audio>
    </div>
 
@@ -313,7 +313,7 @@
       btn.innerHTML='⏸';
     }else{
       cur.pause();
-      btn.innerHTML='⏸';
+      btn.innerHTML='▶';
     }
     cur.onended=()=>{btn.innerHTML='▶';}
   }
