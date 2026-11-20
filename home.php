@@ -64,7 +64,7 @@
     </a>
     <script>
       function imag(){
-          window.location.href = "favorite-gospel.php";
+          window.location.href = "gospel.php";
         }
     </script></li><li><div class="v-linee"></div></li>
     <li><a onclick="imag()" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
