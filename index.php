@@ -27,7 +27,7 @@ $_SESSION['entered'] = true;
 
   <ul class="menuu">
   <li><div class="v-linee"></div></li>
-    <li><a onclick="goPage('index.php')" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a href="index.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     🏠 HOME
     </a>
     </li><li><div class="v-linee"></div></li>
@@ -37,21 +37,21 @@ $_SESSION['entered'] = true;
     </a>
     </li><li><div class="v-linee"></div></li>
    
-    <li><a onclick="goPage('videos.php')" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a href="videos.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📽️ VIDEOS
     </a>
     </li><li><div class="v-linee"></div></li>
     
-    <li><a onclick="goPage('myimages.php')" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a href="myimages.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📸 IMAGES
     </a>
     </li><li><div class="v-linee"></div></li>
 
-    <li><a onclick="goPage('gospel-audios.php')" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a href="gospel-audios.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     ✝️ GOSPEL 
     </a>
     </li><li><div class="v-linee"></div></li>
-    <li><a onclick="goPage('bible-verses.php')" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a href="bible-verses.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📖 BIBLE 
     </a>
     </li><li><div class="v-linee"></div></li>
@@ -207,11 +207,11 @@ Your Friend, NOBLE.<br><br>
 
 <aside class="right">
   <button style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
-    <a href="noble.html"> LOVE</a> 
+    <a href="aboutlove.php"> LOVE</a> 
     </button>
     <br><br>
 <button style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-   <a href="famy.html"> FAM</a>    
+   <a href="myfamily.php"> FAM</a>    
     </button>
 </aside>
 </div>
