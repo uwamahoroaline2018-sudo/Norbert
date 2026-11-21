@@ -140,6 +140,36 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
   <div class="slidde" id="s4">
     <img src="_N25.jpg">
     <a href="#s3" class="arrow left">◀️</a>
+    <a href="#s5" class="arrow right">▶️</a>
+  </div>
+  <div class="slidde" id="s5">
+    <img src="_N37.jpg">
+    <a href="#s4" class="arrow left">◀️</a>
+    <a href="#s6" class="arrow right">▶️</a>
+  </div>
+  <div class="slidde" id="s6">
+    <img src="_N38.jpg">
+    <a href="#s5" class="arrow left">◀️</a>
+    <a href="#s7" class="arrow right">▶️</a>
+  </div>
+  <div class="slidde" id="s7">
+    <img src="_N39.jpg">
+    <a href="#s6" class="arrow left">◀️</a>
+    <a href="#s8" class="arrow right">▶️</a>
+  </div>
+  <div class="slidde" id="s8">
+    <img src="_N41.jpg">
+    <a href="#s7" class="arrow left">◀️</a>
+    <a href="#s9" class="arrow right">▶️</a>
+  </div>
+  <div class="slidde" id="s9">
+    <img src="_N43.jpg">
+    <a href="#s8" class="arrow left">◀️</a>
+    <a href="#s10" class="arrow right">▶️</a>
+  </div>
+  <div class="slidde" id="s10">
+    <img src="_N44.jpg">
+    <a href="#s9" class="arrow left">◀️</a>
     <a href="#s1" class="arrow right">▶️</a>
   </div>
   
