@@ -206,7 +206,7 @@ Your Friend, NOBLE.<br><br>
 <div class="v-line"></div>
 
 <aside class="right">
-  <button style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
+  <button onclick="unlockmylove()" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
     <a href="aboutlove.php"> LOVE</a> 
     </button>
     <br><br>
@@ -214,6 +214,19 @@ Your Friend, NOBLE.<br><br>
    <a href="myfamily.php"> FAM</a>    
     </button>
 </aside>
+
+  <script>
+    function unlockmylove(){
+      var password = prompt("Enter password to see My Girlfriend");
+
+      if(password === "Noble123@!"){
+        //correct: Hide button, show images
+        header("Location: aboutlove.php");
+      }else{
+        alert("Wrong password! You can't see the Love of My life");
+      }
+    }
+  </script>
 </div>
  <footer class="footer">
    <div class="footer-row">
