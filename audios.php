@@ -19,7 +19,6 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
 <body>
 <header>
 <br>
-<center><div class="blnk">WELCOME TO NORBERT'S SITE</div></center>
 
 <div class="logo-left">
   <img src="_N101.jpg" alt="Logo"><br>
