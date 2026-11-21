@@ -1,18 +1,6 @@
 <?php
 session_start();
 $_SESSION['entered'] = true;
-
-$error = "";
-
-if(isset($_POST['view_password'])){
-  if($_POST['view_password'] == "Noble123@!"){
-    $_SESSION['view_allowed'] = true;
-    header("Location: aboutlove.php");
-    exit();
-  }else{
-    $error = "Wrong Password, Call Norbert to allow you at 0787164564";
-  
-}}
 ?>
 
 <!DOCTYPE html>
@@ -225,6 +213,18 @@ Your Friend, NOBLE.<br><br>
 <button style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
    <a href="myfamily.php"> FAM</a>    
     </button>
+  <script>
+  function unlockmylove(){
+    let pass = prompt("Enter Password to see My Girlfriend.");
+
+    if(pass = prompt == "Noble123@!"){
+      window.location.href = "aboutlove.php";
+    }else{
+      alert("Wrong Password Call NORBERT at 0787164564");
+      window.location.href = "index.php";
+    }
+  } 
+ </script>
 </aside>
 
 </div>
