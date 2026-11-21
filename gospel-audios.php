@@ -1,7 +1,8 @@
 <?php
 session_start();
 if(empty($_SESSION['entered')){
-  header.location('href="home.php"')
+  header("Location: index.php");
+  exit;
 }
 
 <!DOCTYPE html>
