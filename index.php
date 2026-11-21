@@ -211,7 +211,7 @@ Your Friend, NOBLE.<br><br>
     </button>
     <br><br>
 <button style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-   <a href="myfamily.php"> FAM</a>    
+    FAM 
     </button>
   <script>
   function unlockmylove(){
