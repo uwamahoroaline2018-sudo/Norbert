@@ -1,3 +1,8 @@
+<?php
+session_start();
+$_SESSION['entered'] = true;
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,7 +15,7 @@
 <body>
 <header>
 <br>
-
+<center><div class="blnk">WELCOME TO NORBERT'S SITE</div></center>
 
 <div class="logo-left">
   <img src="_N101.jpg" alt="Logo"><br>
@@ -22,31 +27,31 @@
 
   <ul class="menuu">
   <li><div class="v-linee"></div></li>
-    <li><a href="home.html" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a href="index.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     🏠 HOME
     </a>
     </li><li><div class="v-linee"></div></li>
    
-    <li><a href="favorite-audio.html" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a href="audios.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     🎶 AUDIOS
     </a>
     </li><li><div class="v-linee"></div></li>
    
-    <li><a href="favorite-videos.html" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a href="videos.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📽️ VIDEOS
     </a>
     </li><li><div class="v-linee"></div></li>
     
-    <li><a href="favorite-images.html" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a href="myimages.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📸 IMAGES
     </a>
     </li><li><div class="v-linee"></div></li>
 
-    <li><a href="favorite-gospel.html" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a href="gospel-audios.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     ✝️ GOSPEL 
     </a>
     </li><li><div class="v-linee"></div></li>
-    <li><a href="bible-verses.html" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a href="bible-verses.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📖 BIBLE 
     </a>
     </li><li><div class="v-linee"></div></li>
