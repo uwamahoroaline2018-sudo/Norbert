@@ -1,3 +1,9 @@
+<?php
+session_start();
+if(empty($_SESSION['entered')){
+  header.laction('href="home.php"')
+}
+
 <!DOCTYPE html>
 <html>
 <head>
