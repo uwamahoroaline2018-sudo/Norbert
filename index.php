@@ -12,7 +12,7 @@ if(isset($_POST['view_password'])){
   }else{
     $error = "Wrong Password, Call Norbert to allow you at 0787164564";
   
-}
+}}
 ?>
 
 <!DOCTYPE html>
