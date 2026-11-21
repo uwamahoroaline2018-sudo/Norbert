@@ -1,7 +1,7 @@
 <?php
 session_start();
 if(empty($_SESSION['entered')){
-  header.laction('href="home.php"')
+  header.location('href="home.php"')
 }
 
 <!DOCTYPE html>
