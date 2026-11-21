@@ -227,19 +227,6 @@ Your Friend, NOBLE.<br><br>
     </button>
 </aside>
 
-  <script>
-    function unlockmylove(){
-      var password = prompt("Enter password to see My Girlfriend");
-
-      if(password === "Noble123@!"){
-        //correct: Hide button, show images
-        header("Location: aboutlove.php");
-      }else{
-        alert("Wrong password! You can't see the Love of My life");
-        header("Location: index.php");
-      }
-    }
-  </script>
 </div>
  <footer class="footer">
    <div class="footer-row">
