@@ -218,10 +218,10 @@ Your Friend, NOBLE.<br><br>
     let pass = prompt("Enter Password to see My Girlfriend.");
 
     if(pass == "Noble123@!"){
-      header("Location: aboutlove.php");
+      window.location.href = "aboutlove.php";
     }else{
       alert("Wrong Password Call NORBERT at 0787164564");
-      header("Location: index.php");
+      window.location.href = "Location: index.php";
     }
   } 
  </script>
