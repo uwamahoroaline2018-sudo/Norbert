@@ -116,7 +116,7 @@ $_SESSION['entered'] = true;
 
 <div class="music-bbox" id="box">
 
-  <p style="color: #000fff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;font-size: 15px;">
+  <p style="color: #fff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;font-size: 15px;">
 
  My name is HABIMANA Norbert born on 1<sup>st</sup> September at KIREHE DISTRICT, Nyarubuye Region.
  From 2009 - 2014 I was in Primary Schools at G.S PAYSANNAT D Locates in MAHAMA SECTOR [KIREHE DISTRICT]
