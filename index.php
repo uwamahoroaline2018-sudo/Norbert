@@ -215,7 +215,7 @@ Your Friend, NOBLE.<br><br>
     </button>
   <script>
   function unlockmylove(){
-    let pass = prompt("Enter Password to see My Girlfriend.");
+    let pass = prompt("Enter Password to see My Girlfriend's Pictures");
 
     if(pass == "Noble123@!"){
       window.location.href = "aboutlove.php";
