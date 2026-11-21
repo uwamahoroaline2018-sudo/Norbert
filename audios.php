@@ -1,6 +1,10 @@
 <?php
 session_start();
-$_SESSION['entered'] = true;
+
+if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
+  header("Location: index.php");
+  exit();
+}
 ?>
 
 <!DOCTYPE html>
