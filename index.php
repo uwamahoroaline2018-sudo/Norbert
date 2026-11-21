@@ -1,7 +1,4 @@
-<?php 
-session_start();
-$_SESSION['entered'] = true;
-?>
+
 
 <!DOCTYPE html>
 <html>
