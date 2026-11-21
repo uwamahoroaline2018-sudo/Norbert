@@ -1,6 +1,18 @@
 <?php
 session_start();
 $_SESSION['entered'] = true;
+
+$error = "";
+
+if(isset($_POST['view_password'])){
+  if($_POST['view_password'] == "Noble123@!"){
+    $_SESSION['view_allowed'] = true;
+    header("Location: aboutlove.php");
+    exit();
+  }else{
+    $error = "Wrong Password, Call Norbert to allow you at 0787164564"
+  }
+}
 ?>
 
 <!DOCTYPE html>
