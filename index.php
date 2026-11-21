@@ -236,6 +236,7 @@ Your Friend, NOBLE.<br><br>
         header("Location: aboutlove.php");
       }else{
         alert("Wrong password! You can't see the Love of My life");
+        header("Location: index.php");
       }
     }
   </script>
