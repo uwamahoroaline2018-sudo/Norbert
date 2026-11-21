@@ -27,7 +27,7 @@
     </a>
     </li><li><div class="v-linee"></div></li>
    
-    <li><a onclick="goPage('audios.php')" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <li><a href="audios.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     🎶 AUDIOS
     </a>
     </li><li><div class="v-linee"></div></li>
