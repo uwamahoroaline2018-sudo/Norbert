@@ -207,11 +207,11 @@ Your Friend, NOBLE.<br><br>
 
 <aside class="right">
   <button onclick="unlockmylove()" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
-     LOVE
+     LOVE 💓
     </button>
     <br><br>
 <button style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    <a href="myfamily.php" style="text-decoration: none;">FAM</a> 
+    <a href="myfamily.php" style="text-decoration: none;">FAM 👨‍👨‍👧‍👦</a> 
     </button>
   <script>
   function unlockmylove(){
