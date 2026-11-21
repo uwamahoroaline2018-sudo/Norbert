@@ -217,7 +217,7 @@ Your Friend, NOBLE.<br><br>
   function unlockmylove(){
     let pass = prompt("Enter Password to see My Girlfriend.");
 
-    if(pass = prompt == "Noble123@!"){
+    if(pass == "Noble123@!"){
       window.location.href = "aboutlove.php";
     }else{
       alert("Wrong Password Call NORBERT at 0787164564");
