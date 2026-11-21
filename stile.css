@@ -674,4 +674,5 @@ summary::-webkit-details-marker {
 	background-color: black;
 	border-radius: 5px;
 	font-family: sans-serif;
+	animation: blink 0.5s infinite;
 }
