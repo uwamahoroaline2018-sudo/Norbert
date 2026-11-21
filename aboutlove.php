@@ -154,13 +154,14 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
 <div class="v-line"></div>
 
 <aside class="right">
-  <button style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
-    <a href="aboutlove.php"> LOVE</a> 
+  <button style="padding: 5px 15px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
+     LOVE 💓
     </button>
     <br><br>
-<button style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-   <a href="myfamily.php"> FAM</a>    
+<button style="padding: 5px 15px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <a href="myfamily.php" style="text-decoration: none;">FAM 👨‍👨‍👧‍👦</a> 
     </button>
+  
 </aside>
 </div>
 
