@@ -54,6 +54,11 @@
 
     
     </nav>
+  <sctript>
+    function goPage(page){
+    window.location.href = page;
+    }
+  </sctript>
 
 </header>
 <br>
