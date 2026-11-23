@@ -1,8 +1,11 @@
 <?php
 session_start();
-$_SESSION['entered'] = true;
-?>
 
+if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
+  header("Location: index.php");
+  exit();
+}
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,7 +18,6 @@ $_SESSION['entered'] = true;
 <body>
 <header>
 <br>
-<center><div class="blnk">WELCOME TO NORBERT'S SITE</div></center>
 
 <div class="logo-left">
   <img src="_N101.jpg" alt="Logo"><br>
@@ -36,7 +38,6 @@ $_SESSION['entered'] = true;
     🎶 AUDIOS
     </a>
     </li><li><div class="v-linee"></div></li>
-   
     
     <li><a href="myimages.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📸 IMAGES
@@ -418,4 +419,5 @@ $_SESSION['entered'] = true;
 
 </body>
 </html>
+
 
