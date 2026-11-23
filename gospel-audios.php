@@ -39,11 +39,6 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
     🎶 AUDIOS
     </a>
     </li><li><div class="v-linee"></div></li>
-   
-    <li><a href="videos.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    📽️ VIDEOS
-    </a>
-    </li><li><div class="v-linee"></div></li>
     
     <li><a href="myimages.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📸 IMAGES
@@ -404,3 +399,4 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
 
 </body>
 </html>
+
