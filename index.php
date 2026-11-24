@@ -31,12 +31,6 @@ $_SESSION['entered'] = true;
     🏠 HOME
     </a>
     </li><li><div class="v-linee"></div></li>
-   
-    <li><a href="audios.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    🎶 AUDIOS
-    </a>
-    </li><li><div class="v-linee"></div></li>
-   
     
     <li><a href="myimages.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📸 IMAGES
@@ -106,51 +100,11 @@ $_SESSION['entered'] = true;
 
 </aside>
 
+
 <div class="v-line"></div>
-
  <main class="center">
 
-<div class="music-bbox" id="box">
-
-  <p style="color: #fff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;font-size: 15px;">
-
- My name is HABIMANA Norbert born on 1<sup>st</sup> September at KIREHE DISTRICT, Nyarubuye Region.
- From 2009 - 2014 I was in Primary Schools at G.S PAYSANNAT D Locates in MAHAMA SECTOR [KIREHE DISTRICT]
- In 2015 I went to G.S KANKOBWA and I spent 3 years there in Secondary Schools [ O'LEVEL ] ,
- And therefore I passed National Examination and I was sent to APENA TVET SCHOOLS it is in NASHO SECTOR [KIREHE DISTRICT]. I also spent 3-4 years right there learning <u style="color: #567fff;animation: blink 1s infinite;">SOFTWARE DEVELOPMENT</u> And I was the best performer right there but it isn't showing off.
- After finishing National Exam, I have nothing in My mind to do even applying for University, except chasing  a job I liked/wished to do as My career and that's what I applied for. <br><br>
- 
-
- I met so many friends at different schools I joined like:<i style="color: #fffaaa;"> UMUZIGA Yvonne, KARENZI Fiacre, UWASE Anitha, MURAZA Liliane, UMWALI Theodethe, IZABAYO Eric, NSENGIYUMVA Innocent, MURATANGOGA Elie, MWIZERWA Josue, UMWIZERWA Kevin, NIYOMUGABO Jean Dedieu,  
- SIBORUREMA Theogene, MUNYEHIRWE Theogene, MURENGEZI Fabrice, NIYIGENA Elias, ISHIMWE Madjidu, TUYIZERE Dieudonne, NKURUNZIZA Emile, IRAKOZE Fasil, Fillos (Theoneste), RUTERANA Julius, IZERE HIRWA Roger,  
- IRAKOZE Thierry, Ishimwe Steven, NDAYISENGA Isaie, MANIRIHO Yasson, Leandre, Manasseh, ISHIMWE Emelyne, Peninnah, Divine, Anathalie, Remy (Emperor), UWASE Olivier  </i>   and many more.<br><br>
-
-I got big friendlist and I apologize to those I didn't mention I remember y'all.<br><br>
-
-In my career (job) I also have real friends those ones who could not leave me behind even in battle mhn I appreciate this.<br><br>
-
-For My Girlfriend and family check buttons named MY LOVE and FAM.<br><br>
-
-I normally don't talk too much, just silent boy but when I can not manage our bond, Am telling you, we could have an amazing conversation.<br><br><br>
-
-Your Friend, NOBLE.<br><br>
-
-           Thank y'all.
-    
-   </p>
-    </div>
-
-
-
-
-     
-
-
-</main>
-
- <main class="center">
- 
-  <div class="slideshow">
+ <div class="slideshow">
     <img src="_N32.jpg" class="slide active">
     <img src="_N2.jpg" class="slide">
     <img src="_N3.jpg" class="slide">
@@ -183,17 +137,37 @@ Your Friend, NOBLE.<br><br>
     <img src="_N30.png" class="slide">
     <img src="_N31.jpg" class="slide">
   </div>
+<br><br><br><br>
 
-  <script>
-    let index = 0;
-    const slides =  document.querySelectorAll('.slide');
+<div class="music-bbox" id="box">
 
-    setInterval(() =>{
-      slides[index].classList.remove('active');
-      index = (index + 1) % slides.length;
-      slides[index].classList.add('active');
-    }, 4000);
-  </script>
+  <p style="color: #fff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;font-size: 15px;">
+
+ My name is HABIMANA Norbert born on 1<sup>st</sup> September at KIREHE DISTRICT, Nyarubuye Region.
+ From 2009 - 2014 I was in Primary Schools at G.S PAYSANNAT D Locates in MAHAMA SECTOR [KIREHE DISTRICT]
+ In 2015 I went to G.S KANKOBWA and I spent 3 years there in Secondary Schools [ O'LEVEL ] ,
+ And therefore I passed National Examination and I was sent to APENA TVET SCHOOLS it is in NASHO SECTOR [KIREHE DISTRICT]. I also spent 3-4 years right there learning <u style="color: #567fff;animation: blink 1s infinite;">SOFTWARE DEVELOPMENT</u> And I was the best performer right there but it isn't showing off.
+ After finishing National Exam, I have nothing in My mind to do even applying for University, except chasing  a job I liked/wished to do as My career and that's what I applied for. <br><br>
+ 
+
+ I met so many friends at different schools I joined like:<i style="color: #fffaaa;"> UMUZIGA Yvonne, KARENZI Fiacre, UWASE Anitha, MURAZA Liliane, UMWALI Theodethe, IZABAYO Eric, HAKIZIMANA Valens,ABAYISENGA Naome, NSENGIYUMVA Innocent, MURATANGOGA Elie, MWIZERWA Josue, UMWIZERWA Kevin, NIYOMUGABO Jean Dedieu,  
+ SIBORUREMA Theogene, MUNYEHIRWE Theogene, MURENGEZI Fabrice, NIYIGENA Elias, ISHIMWE Madjidu, TUYIZERE Dieudonne, NKURUNZIZA Emile, IRAKOZE Fasil, Fillos (Theoneste), RUTERANA Julius, IZERE HIRWA Roger,  
+ IRAKOZE Thierry, Ishimwe Steven, NDAYISENGA Isaie, MANIRIHO Yasson, Leandre, Manasseh, ISHIMWE Emelyne, Peninnah, Divine, Anathalie, Remy (Emperor), UWASE Olivier  </i>   and many more.<br><br>
+
+I got big friendlist and I apologize to those I didn't mention I remember y'all.<br><br>
+
+In my career (job) I also have real friends those ones who could not leave me behind even in battle mhn I appreciate this.<br><br>
+
+For My Girlfriend and family check buttons named MY LOVE and FAM.<br><br>
+
+I normally don't talk too much, just silent boy but when I can not manage our bond, Am telling you, we could have an amazing conversation.<br><br><br>
+
+Your Friend, NOBLE.<br><br>
+
+           Thank y'all.
+    
+   </p>
+    </div>
 
 </main>
 
@@ -202,12 +176,12 @@ Your Friend, NOBLE.<br><br>
 <div class="v-line"></div>
 
 <aside class="right">
-  <button onclick="unlockmylove()" style="padding: 5px 15px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
-     LOVE 💓
+    <button onclick="unlockmylove()" style="padding: 5px 25px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
+     MY LOVE 💓
     </button>
     <br><br>
 <button style="padding: 5px 15px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    <a href="myfamily.php" style="text-decoration: none;">FAM 👨‍👨‍👧‍👦</a> 
+    <a href="myfamily.php" style="text-decoration: none;color: white;">FAMILY 👨‍👨‍👦.</a> 
     </button>
   <script>
   function unlockmylove(){
