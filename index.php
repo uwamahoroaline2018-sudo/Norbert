@@ -158,7 +158,7 @@ I got big friendlist and I apologize to those I didn't mention I remember y'all.
 
 In my career (job) I also have real friends those ones who could not leave me behind even in battle mhn I appreciate this.<br><br>
 
-For My Girlfriend and family check buttons named MY LOVE and FAM.<br><br>
+For My Girlfriend and family check buttons named MY LOVE and FAMILY at the right side.<br><br>
 
 I normally don't talk too much, just silent boy but when I can not manage our bond, Am telling you, we could have an amazing conversation.<br><br><br>
 
