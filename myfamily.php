@@ -33,11 +33,6 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
     🏠 HOME
     </a>
     </li><li><div class="v-linee"></div></li>
-   
-    <li><a href="audios.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    🎶 AUDIOS
-    </a>
-    </li><li><div class="v-linee"></div></li>
     
     <li><a href="myimages.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📸 IMAGES
@@ -118,6 +113,7 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
     <img src="_N11.jpg">
     <a href="#s31" class="arrow left">◀️</a>
     <a href="#s2" class="arrow right">▶️</a>
+    <div class="txtonimage"><h5>MY MOM<h5></div>
 
   </div>
 
@@ -125,47 +121,51 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
     <img src="_N31.jpg">
     <a href="#s1" class="arrow left">◀️</a>
     <a href="#s3" class="arrow right">▶️</a>
+    <div class="txtonimage"><h5>MY MOM<h5></div>
   </div>
 
   <div class="slidde" id="s3">
-    <img src="_N24.jpg">
+    <img src="_N43.jpg">
     <a href="#s2" class="arrow left">◀️</a>
     <a href="#s4" class="arrow right">▶️</a>
+    <div class="txtonimage"><h5>MY FATHER<h5></div>
   </div>
   <div class="slidde" id="s4">
-    <img src="_N25.jpg">
+    <img src="_N41.jpg">
     <a href="#s3" class="arrow left">◀️</a>
     <a href="#s5" class="arrow right">▶️</a>
+    <div class="txtonimage"><h5>SISTER LEONCIE<h5></div>
   </div>
   <div class="slidde" id="s5">
     <img src="_N37.jpg">
     <a href="#s4" class="arrow left">◀️</a>
     <a href="#s6" class="arrow right">▶️</a>
+    <div class="txtonimage"><h5>MY BIG BROTHER RIGO<h5></div>
   </div>
   <div class="slidde" id="s6">
-    <img src="_N38.jpg">
+    <img src="_N44.jpg">
     <a href="#s5" class="arrow left">◀️</a>
     <a href="#s7" class="arrow right">▶️</a>
+    <div class="txtonimage"><h5>ME AND BROTHER CLEVER<h5></div>
   </div>
   <div class="slidde" id="s7">
-    <img src="_N39.jpg">
+    <img src="_N36.jpg">
     <a href="#s6" class="arrow left">◀️</a>
     <a href="#s8" class="arrow right">▶️</a>
+    <div class="txtonimage"><h5>ME<h5></div>
   </div>
   <div class="slidde" id="s8">
-    <img src="_N41.jpg">
+    <img src="_N38.jpg">
     <a href="#s7" class="arrow left">◀️</a>
     <a href="#s9" class="arrow right">▶️</a>
+    <div class="txtonimage"><h5>SISTER FELICITHE<h5></div>
   </div>
   <div class="slidde" id="s9">
-    <img src="_N43.jpg">
+    <img src="_N39.jpg">
     <a href="#s8" class="arrow left">◀️</a>
-    <a href="#s10" class="arrow right">▶️</a>
-  </div>
-  <div class="slidde" id="s10">
-    <img src="_N44.jpg">
-    <a href="#s9" class="arrow left">◀️</a>
     <a href="#s1" class="arrow right">▶️</a>
+    <div class="txtonimage"><h5>BROTHER PHILEMON<h5></div>
+    
   </div>
   
 </div>
@@ -177,12 +177,12 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
 <div class="v-line"></div>
 
 <aside class="right">
-  <button onclick="unlockmylove()" style="padding: 5px 15px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
-     LOVE 💓
+   <button onclick="unlockmylove()" style="padding: 5px 25px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
+     MY LOVE 💓
     </button>
     <br><br>
 <button style="padding: 5px 15px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    <a href="myfamily.php" style="text-decoration: none;">FAM 👨‍👨‍👧‍👦</a> 
+    <a href="myfamily.php" style="text-decoration: none;color: white;">FAMILY 👨‍👨‍👦.</a> 
     </button>
   <script>
   function unlockmylove(){
