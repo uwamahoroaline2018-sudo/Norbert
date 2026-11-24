@@ -35,11 +35,6 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
     🏠 HOME
     </a>
     </li><li><div class="v-linee"></div></li>
-   
-    <li><a href="audios.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    🎶 AUDIOS
-    </a>
-    </li><li><div class="v-linee"></div></li>
     
     <li><a href="myimages.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     📸 IMAGES
@@ -96,10 +91,10 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
   </div>
       <div class="lagos">
 
-    <h2>N</h2><br><br>
-    <h2>O</h2><br><br>
-    <h2>B</h2><br><br>
-    <h2>L</h2><br><br>
+    <h2>N</h2><br>
+    <h2>O</h2><br>
+    <h2>B</h2><br>
+    <h2>L</h2><br>
     <h2>E</h2><br><br>
 
 
@@ -149,12 +144,12 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
 <div class="v-line"></div>
 
 <aside class="right">
-  <button style="padding: 5px 15px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
-     LOVE 💓
+    <button onclick="unlockmylove()" style="padding: 5px 25px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
+     MY LOVE 💓
     </button>
     <br><br>
 <button style="padding: 5px 15px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    <a href="myfamily.php" style="text-decoration: none;">FAM 👨‍👨‍👧‍👦</a> 
+    <a href="myfamily.php" style="text-decoration: none;color: white;">FAMILY 👨‍👨‍👦.</a> 
     </button>
   
 </aside>
