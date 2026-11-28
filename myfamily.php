@@ -257,6 +257,18 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
      </div>
 
    </div>
+     <p style="color: #fff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;font-size: 15px;">
+
+ I Norbert, I'am the 4<sup>th</sup>   of   6<sup>th</sup>   Kids. I currently have Mom and Dad. We have two girls and four boys<br><br>
+ I am an introvert boy but not selfish one. Follow me at:
+     - Instagram: iam_noble_01<br><br>
+     - Facebook: Norbert<br><br>
+     - WhatsApp: +250 787164564<br><br>
+     - TikTok: Noble_403<br><br>
+
+           Thank you
+    
+   </p>
   <br>
    <center><span style="margin-bottom: 4px;">&copy; 2026 Norbert. All Rights Reserved.</span></center>
  </footer>
