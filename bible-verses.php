@@ -97,11 +97,11 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
   </div>
   <div class="lagos">
 
-    <h2>N</h2><br><br>
-    <h2>O</h2><br><br>
-    <h2>B</h2><br><br>
-    <h2>L</h2><br><br>
-    <h2>E</h2><br><br>
+    <h2 style="animation: blink 1s infinite;">N</h2><br>
+    <h2 style="animation: blink 1s infinite;">O</h2><br>
+    <h2 style="animation: blink 1s infinite;">B</h2><br>
+    <h2 style="animation: blink 1s infinite;">L</h2><br>
+    <h2 style="animation: blink 1s infinite;">E</h2><br>
 
 
     
@@ -207,7 +207,7 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
  </script>
 </aside>
 </div>
- <footer class="footer">
+<footer class="footer">
    <div class="footer-row">
 
      <div class="footer-col">
@@ -218,8 +218,8 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
      <div class="footer-col">
         <h3>Quick Links</h3>
         
-        <a href="favorite-images.html">Photos</a>
-        <a href="favorite-videos.html">Videos</a>
+        <a href="myfamily.php">MY FAMILY</a>
+        <a href="bible-verses.php">READ BIBLE VERSES</a>
         
      </div>
 
@@ -263,7 +263,7 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
      </div>
 
    </div>
-     <p style="color: #fff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;font-size: 15px;">
+   <p style="color: #fff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;font-size: 15px;">
 
  I Norbert, I'am the 4<sup>th</sup>   of   6<sup>th</sup>   Kids. I currently have Mom and Dad. We have two girls and four boys<br><br>
  I am an introvert boy but not selfish one. Follow me at:<br><br>
@@ -275,8 +275,7 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
            Thank you
     
    </p>
-   <br><br>
-
+  <br><br><br><br><br><br>
    <center><span style="margin-bottom: 4px;">&copy; 2026 Norbert. All Rights Reserved.</span></center>
  </footer>
 
