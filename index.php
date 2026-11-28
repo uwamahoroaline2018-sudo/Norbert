@@ -137,7 +137,26 @@ $_SESSION['entered'] = true;
     <img src="_N30.png" class="slide">
     <img src="_N31.jpg" class="slide">
   </div>
-<br><br><br><br>
+<br><br><br
+          <button onclick="unlockmylove()" style="padding: 5px 25px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
+     MY LOVE 💓
+    </button>
+    <br><br>
+<button style="padding: 5px 15px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    <a href="myfamily.php" style="text-decoration: none;color: white;">FAMILY 👨‍👨‍👦.</a> 
+    </button>
+  <script>
+  function unlockmylove(){
+    let pass = prompt("Enter Password to see My Girlfriend's Pictures");
+
+    if(pass == "Noble123@!"){
+      window.location.href = "aboutlove.php";
+    }else{
+      alert("Wrong Password Call NORBERT at 0787164564");
+      window.location.href = "Location: index.php";
+    }
+  } 
+ </script>
 
 <div class="music-bbox" id="box">
 
@@ -175,27 +194,6 @@ Your Friend, NOBLE.<br><br>
 
 <div class="v-line"></div>
 
-<aside class="right">
-    <button onclick="unlockmylove()" style="padding: 5px 25px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
-     MY LOVE 💓
-    </button>
-    <br><br>
-<button style="padding: 5px 15px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    <a href="myfamily.php" style="text-decoration: none;color: white;">FAMILY 👨‍👨‍👦.</a> 
-    </button>
-  <script>
-  function unlockmylove(){
-    let pass = prompt("Enter Password to see My Girlfriend's Pictures");
-
-    if(pass == "Noble123@!"){
-      window.location.href = "aboutlove.php";
-    }else{
-      alert("Wrong Password Call NORBERT at 0787164564");
-      window.location.href = "Location: index.php";
-    }
-  } 
- </script>
-</aside>
 
 </div>
  <footer class="footer">
