@@ -255,6 +255,32 @@ Your Friend, NOBLE.<br><br>
      </div>
 
    </div>
+   <p style="color: #fff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;font-size: 15px;">
+
+ My name is HABIMANA Norbert born on 1<sup>st</sup> September at KIREHE DISTRICT, Nyarubuye Region.
+ My educational journey began in 2009 - 2014 at G.S PAYSANNAT D Locates in MAHAMA SECTOR [KIREHE DISTRICT] where I attended primary school,
+ In 2015 I went to G.S KANKOBWA and I spent 3 years there in Secondary Schools [ O'LEVEL ] ,
+ And therefore I passed National Examination and I was sent to APENA TVET SCHOOLS it is in NASHO SECTOR [KIREHE DISTRICT]. I also spent 3-4 years right there learning <u style="color: #567000;animation: blink 1s infinite;">SOFTWARE DEVELOPMENT</u> And I was the best performer right there but it isn't showing off.
+ After finishing National Exam, I have nothing in My mind to do even applying for University, except chasing  a job I liked/wished to do as My career and that's what I applied for. <br><br>
+ 
+
+ I met so many friends at different schools I joined like:<i style="color: #fffaaa;"> UMUZIGA Yvonne, KARENZI Fiacre, UWASE Anitha, MURAZA Liliane, UMWALI Theodethe, IZABAYO Eric, HAKIZIMANA Valens,ABAYISENGA Naome, NSENGIYUMVA Innocent, MURATANGOGA Elie, MWIZERWA Josue, UMWIZERWA Kevin, NIYOMUGABO Jean Dedieu,  
+ SIBORUREMA Theogene, MUNYEHIRWE Theogene, MURENGEZI Fabrice, NIYIGENA Elias, ISHIMWE Madjidu, TUYIZERE Dieudonne, NKURUNZIZA Emile, IRAKOZE Fasil, Fillos (Theoneste), RUTERANA Julius, IZERE HIRWA Roger,  
+ IRAKOZE Thierry, Ishimwe Steven, NDAYISENGA Isaie, MANIRIHO Yasson, Leandre, Manasseh, ISHIMWE Emelyne, Peninnah, Divine, Anathalie, Remy (Emperor), UWASE Olivier  </i>   and many more.<br><br>
+
+I got big friendlist and I apologize to those I didn't mention I remember y'all.<br><br>
+
+In my career (job) I also have real friends those ones who could not leave me behind even in battle mhn I appreciate this.<br><br>
+
+For My Girlfriend and family check buttons named MY LOVE and FAM.<br><br>
+
+I normally don't talk too much, just silent boy but when I can not manage our bond, Am telling you, we could have an amazing conversation.<br><br><br>
+
+Your Friend, NOBLE.<br><br>
+
+           Thank y'all.
+    
+   </p>
   <br>
    <center><span style="margin-bottom: 4px;">&copy; 2026 Norbert. All Rights Reserved.</span></center>
  </footer>
