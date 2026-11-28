@@ -45,9 +45,9 @@ $_SESSION['entered'] = true;
     📖 BIBLE 
     </a>
     </li><li><div class="v-linee"></div></li>
-     <li><button onclick="unlockmylove()" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+     <li><a></a><button onclick="unlockmylove()" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
      MY LOVE 💓
-    </button>
+    </button></a>
     </li><li><div class="v-linee"></div></li>
      <li><a href="myfamily.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
     FAMILY 👨‍👨‍👦 
@@ -152,9 +152,9 @@ $_SESSION['entered'] = true;
   <p style="color: #fff;font-family: sans-serif;font-weight: bold;margin-left: 15px;margin-top: 10px;font-size: 15px;">
 
  My name is HABIMANA Norbert born on 1<sup>st</sup> September at KIREHE DISTRICT, Nyarubuye Region.
- From 2009 - 2014 I was in Primary Schools at G.S PAYSANNAT D Locates in MAHAMA SECTOR [KIREHE DISTRICT]
+ My educational journey began in 2009 - 2014 at G.S PAYSANNAT D Locates in MAHAMA SECTOR [KIREHE DISTRICT] where I attended primary school,
  In 2015 I went to G.S KANKOBWA and I spent 3 years there in Secondary Schools [ O'LEVEL ] ,
- And therefore I passed National Examination and I was sent to APENA TVET SCHOOLS it is in NASHO SECTOR [KIREHE DISTRICT]. I also spent 3-4 years right there learning <u style="color: #567fff;animation: blink 1s infinite;">SOFTWARE DEVELOPMENT</u> And I was the best performer right there but it isn't showing off.
+ And therefore I passed National Examination and I was sent to APENA TVET SCHOOLS it is in NASHO SECTOR [KIREHE DISTRICT]. I also spent 3-4 years right there learning <u style="color: #567000;animation: blink 1s infinite;">SOFTWARE DEVELOPMENT</u> And I was the best performer right there but it isn't showing off.
  After finishing National Exam, I have nothing in My mind to do even applying for University, except chasing  a job I liked/wished to do as My career and that's what I applied for. <br><br>
  
 
