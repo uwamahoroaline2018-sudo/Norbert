@@ -145,7 +145,7 @@ $_SESSION['entered'] = true;
     <img src="_N30.png" class="slide">
     <img src="_N31.jpg" class="slide">
   </div>
-<br><br><br><br>
+<br><br>
 
 <div class="music-bbox" id="box">
 
