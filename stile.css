@@ -50,6 +50,10 @@
       .cart-panel {
         position: static;
       }
+		.slideshow{
+	width: 150%;
+	max-width: 500px;
+	height: 305px;
     }
 
 
