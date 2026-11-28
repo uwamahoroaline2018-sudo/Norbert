@@ -95,11 +95,11 @@ $_SESSION['entered'] = true;
   </div>
     <div class="lagos">
 
-    <h2>N</h2><br><br>
-    <h2>O</h2><br><br>
-    <h2>B</h2><br><br>
-    <h2>L</h2><br><br>
-    <h2>E</h2><br><br>
+    <h2 style="animation: blink 1s infinite;">N</h2><br><br>
+    <h2 style="animation: blink 1s infinite;">O</h2><br><br>
+    <h2 style="animation: blink 1s infinite;">B</h2><br><br>
+    <h2 style="animation: blink 1s infinite;">L</h2><br><br>
+    <h2 style="animation: blink 1s infinite;">E</h2><br><br>
 
 
     
@@ -144,6 +144,18 @@ $_SESSION['entered'] = true;
     <img src="_N29.jpg" class="slide">
     <img src="_N30.png" class="slide">
     <img src="_N31.jpg" class="slide">
+
+  <script>
+    let index = 0;
+    const slides =  document.querySelectorAll('.slide');
+
+    setInterval(() =>{
+      slides[index].classList.remove('active');
+      index = (index + 1) % slides.length;
+      slides[index].classList.add('active');
+    }, 4000);
+  </script>
+
   </div>
 <br><br>
 
@@ -154,7 +166,7 @@ $_SESSION['entered'] = true;
  My name is HABIMANA Norbert born on 1<sup>st</sup> September at KIREHE DISTRICT, Nyarubuye Region.
  My educational journey began in 2009 - 2014 at G.S PAYSANNAT D Locates in MAHAMA SECTOR [KIREHE DISTRICT] where I attended primary school,
  In 2015 I went to G.S KANKOBWA and I spent 3 years there in Secondary Schools [ O'LEVEL ] ,
- And therefore I passed National Examination and I was sent to APENA TVET SCHOOLS it is in NASHO SECTOR [KIREHE DISTRICT]. I also spent 3-4 years right there learning <u style="color: #567000;animation: blink 1s infinite;">SOFTWARE DEVELOPMENT</u> And I was the best performer right there but it isn't showing off.
+ And therefore I passed National Examination and I was sent to APENA TVET SCHOOLS it is in NASHO SECTOR [KIREHE DISTRICT]. I also spent 3-4 years right there learning <u style="color: red;animation: blink 1s infinite;">SOFTWARE DEVELOPMENT</u> And I was the best performer right there but it isn't showing off.
  After finishing National Exam, I have nothing in My mind to do even applying for University, except chasing  a job I liked/wished to do as My career and that's what I applied for. <br><br>
  
 
