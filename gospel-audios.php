@@ -48,6 +48,14 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
     📖 BIBLE 
     </a>
     </li><li><div class="v-linee"></div></li>
+     <li><a></a><button onclick="unlockmylove()" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+     MY LOVE 💓
+    </button></a>
+    </li><li><div class="v-linee"></div></li>
+     <li><a href="myfamily.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    FAMILY 👨‍👨‍👦 
+    </a>
+    </li><li><div class="v-linee"></div></li>
     </ul>
 
     
@@ -311,13 +319,7 @@ if(!isset($_SESSION['entered']) || $_SESSION['entered'] !== true){
 <div class="v-line"></div>
 
 <aside class="right">
-    <button onclick="unlockmylove()" style="padding: 5px 25px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
-     MY LOVE 💓
-    </button>
-    <br><br>
-<button style="padding: 5px 15px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
-    <a href="myfamily.php" style="text-decoration: none;color: white;">FAMILY 👨‍👨‍👦.</a> 
-    </button>
+  
   <script>
   function unlockmylove(){
     let pass = prompt("Enter Password to see My Girlfriend's Pictures");
