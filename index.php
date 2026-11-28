@@ -210,8 +210,8 @@ Your Friend, NOBLE.<br><br>
      <div class="footer-col">
         <h3>Quick Links</h3>
         
-        <a href="favorite-images.php">Photos</a>
-        <a href="favorite-videos.php">Videos</a>
+        <a href="myfamily.php">MY FAMILY</a>
+        <a href="bible-verses.php">READ BIBLE VERSES</a>
         
      </div>
 
@@ -267,7 +267,7 @@ Your Friend, NOBLE.<br><br>
            Thank you
     
    </p>
-  <br><br><br>
+  <br><br><br><br><br><br>
    <center><span style="margin-bottom: 4px;">&copy; 2026 Norbert. All Rights Reserved.</span></center>
  </footer>
 
