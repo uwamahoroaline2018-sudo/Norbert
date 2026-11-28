@@ -45,6 +45,14 @@ $_SESSION['entered'] = true;
     📖 BIBLE 
     </a>
     </li><li><div class="v-linee"></div></li>
+     <li><button onclick="unlockmylove()" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+     MY LOVE 💓
+    </button>
+    </li><li><div class="v-linee"></div></li>
+     <li><a href="myfamily.php" style="padding: 5px 5px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;">
+    FAMILY 👨‍👨‍👦 
+    </a>
+    </li><li><div class="v-linee"></div></li>
     </ul>
 
     
