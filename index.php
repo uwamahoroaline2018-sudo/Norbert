@@ -175,8 +175,9 @@ Your Friend, NOBLE.<br><br>
 
 
 <div class="v-line"></div>
+
 <aside class="right">
-            <button onclick="unlockmylove()" style="padding: 5px 25px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
+   <button onclick="unlockmylove()" style="padding: 5px 25px;border-radius: 7px;border: none;font-weight: bold;font-style: italic;cursor: pointer;margin-left: 0px;">
      MY LOVE 💓
     </button>
     <br><br>
@@ -196,7 +197,6 @@ Your Friend, NOBLE.<br><br>
   } 
  </script>
 </aside>
-
 </div>
  <footer class="footer">
    <div class="footer-row">
